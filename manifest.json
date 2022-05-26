@@ -1,0 +1,11 @@
+{
+    "name": "Ali",
+    "short_name": "Ali",
+    "icons": [
+        {
+           "src": "./icons/music.ico",
+            "sizes": "64x64",
+            "type": "image/ico"
+        }
+    ]
+}
