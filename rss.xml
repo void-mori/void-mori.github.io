@@ -7,10 +7,10 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>见月舫</title>
-        <link>https://traumtanzer.xyz/</link>
+        <title>小楼一夜听春雨</title>
+        <link>https://voidmori.xyz/</link>
         <description>阿离的移动城堡</description>
-        <generator>Hugo 0.106.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.118.2 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -19,15 +19,101 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 09 Jan 2023 04:29:17 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 16:31:42 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://traumtanzer.xyz/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://voidmori.xyz/rss.xml" />
         
         
             <item>
+                <title>我是分割线</title>
+                <link>https://voidmori.xyz/%E6%88%91%E6%98%AF%E5%88%86%E5%89%B2%E7%BA%BF/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E6%88%91%E6%98%AF%E5%88%86%E5%89%B2%E7%BA%BF/</guid>
+                <pubDate>Sat, 16 Dec 2023 22:54:41 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;停更很久，准备继续更新，考虑要不要保留历史数据。&lt;/p&gt;
+&lt;p&gt;祝福你&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://voidmori.xyz/tags/">标签</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>无题</title>
+                <link>https://voidmori.xyz/%E6%97%A0%E9%A2%98/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E6%97%A0%E9%A2%98/</guid>
+                <pubDate>Mon, 18 Sep 2023 22:37:41 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://voidmori.xyz/tags/">标签</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
                 <title>毛泽东《中国社会各阶级的分析》1925年版全文</title>
-                <link>https://traumtanzer.xyz/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%901925%E5%B9%B4%E7%89%88%E5%85%A8%E6%96%87/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%901925%E5%B9%B4%E7%89%88%E5%85%A8%E6%96%87/</guid>
+                <link>https://voidmori.xyz/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%901925%E5%B9%B4%E7%89%88%E5%85%A8%E6%96%87/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%901925%E5%B9%B4%E7%89%88%E5%85%A8%E6%96%87/</guid>
                 <pubDate>Mon, 09 Jan 2023 03:47:48 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -170,7 +256,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -185,7 +271,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C/">毛泽东</category>
+                                    <category domain="https://voidmori.xyz/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C/">毛泽东</category>
                                 
                             
                         
@@ -195,8 +281,8 @@
         
             <item>
                 <title>美国人为何而战</title>
-                <link>https://traumtanzer.xyz/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%88%98/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%88%98/</guid>
+                <link>https://voidmori.xyz/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%88%98/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%88%98/</guid>
                 <pubDate>Mon, 21 Nov 2022 06:41:30 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -263,7 +349,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -278,7 +364,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
                                 
                             
                         
@@ -288,8 +374,8 @@
         
             <item>
                 <title>Pierre Et Marion</title>
-                <link>https://traumtanzer.xyz/pierre-et-marion/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/pierre-et-marion/</guid>
+                <link>https://voidmori.xyz/pierre-et-marion/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/pierre-et-marion/</guid>
                 <pubDate>Mon, 21 Nov 2022 06:06:56 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -381,7 +467,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -396,7 +482,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E9%9F%B3%E4%B9%90/">音乐</category>
+                                    <category domain="https://voidmori.xyz/tags/%E9%9F%B3%E4%B9%90/">音乐</category>
                                 
                             
                         
@@ -406,8 +492,8 @@
         
             <item>
                 <title>能说会写的文盲</title>
-                <link>https://traumtanzer.xyz/%E8%83%BD%E8%AF%B4%E4%BC%9A%E5%86%99%E7%9A%84%E6%96%87%E7%9B%B2/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E8%83%BD%E8%AF%B4%E4%BC%9A%E5%86%99%E7%9A%84%E6%96%87%E7%9B%B2/</guid>
+                <link>https://voidmori.xyz/%E8%83%BD%E8%AF%B4%E4%BC%9A%E5%86%99%E7%9A%84%E6%96%87%E7%9B%B2/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E8%83%BD%E8%AF%B4%E4%BC%9A%E5%86%99%E7%9A%84%E6%96%87%E7%9B%B2/</guid>
                 <pubDate>Sat, 24 Apr 2021 18:43:47 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -441,7 +527,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -456,7 +542,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
                                 
                             
                         
@@ -466,8 +552,8 @@
         
             <item>
                 <title>碗,酸菜,识别</title>
-                <link>https://traumtanzer.xyz/%E7%A2%97%E9%85%B8%E8%8F%9C%E8%AF%86%E5%88%AB/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%A2%97%E9%85%B8%E8%8F%9C%E8%AF%86%E5%88%AB/</guid>
+                <link>https://voidmori.xyz/%E7%A2%97%E9%85%B8%E8%8F%9C%E8%AF%86%E5%88%AB/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%A2%97%E9%85%B8%E8%8F%9C%E8%AF%86%E5%88%AB/</guid>
                 <pubDate>Tue, 20 Apr 2021 20:45:02 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -488,7 +574,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -503,7 +589,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+                                    <category domain="https://voidmori.xyz/tags/%E6%97%A5%E8%AE%B0/">日记</category>
                                 
                             
                         
@@ -513,8 +599,8 @@
         
             <item>
                 <title>Lolita</title>
-                <link>https://traumtanzer.xyz/lolita/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/lolita/</guid>
+                <link>https://voidmori.xyz/lolita/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/lolita/</guid>
                 <pubDate>Tue, 20 Apr 2021 20:42:43 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -561,7 +647,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -576,7 +662,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%B0%8F%E8%AF%B4/">小说</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%B0%8F%E8%AF%B4/">小说</category>
                                 
                             
                         
@@ -586,8 +672,8 @@
         
             <item>
                 <title>一些问题Q&amp;A</title>
-                <link>https://traumtanzer.xyz/%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98qa/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98qa/</guid>
+                <link>https://voidmori.xyz/%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98qa/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98qa/</guid>
                 <pubDate>Mon, 19 Apr 2021 20:44:22 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -648,7 +734,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AE%A1%E7%A7%91/">计科</category>
+                                <category domain="https://voidmori.xyz/%E8%AE%A1%E7%A7%91/">计科</category>
                             
                         
                     
@@ -663,7 +749,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/qa/">Q&amp;A</category>
+                                    <category domain="https://voidmori.xyz/tags/qa/">Q&amp;A</category>
                                 
                             
                         
@@ -673,8 +759,8 @@
         
             <item>
                 <title>加与乘</title>
-                <link>https://traumtanzer.xyz/%E5%8A%A0%E4%B8%8E%E4%B9%98/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E5%8A%A0%E4%B8%8E%E4%B9%98/</guid>
+                <link>https://voidmori.xyz/%E5%8A%A0%E4%B8%8E%E4%B9%98/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E5%8A%A0%E4%B8%8E%E4%B9%98/</guid>
                 <pubDate>Fri, 02 Apr 2021 21:09:25 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -699,7 +785,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%95%B0%E5%AD%A6/">数学</category>
+                                <category domain="https://voidmori.xyz/%E6%95%B0%E5%AD%A6/">数学</category>
                             
                         
                     
@@ -714,7 +800,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -724,8 +810,8 @@
         
             <item>
                 <title>哲学概论笔记</title>
-                <link>https://traumtanzer.xyz/%E5%93%B2%E5%AD%A6%E6%A6%82%E8%AE%BA%E7%AC%94%E8%AE%B0/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E5%93%B2%E5%AD%A6%E6%A6%82%E8%AE%BA%E7%AC%94%E8%AE%B0/</guid>
+                <link>https://voidmori.xyz/%E5%93%B2%E5%AD%A6%E6%A6%82%E8%AE%BA%E7%AC%94%E8%AE%B0/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E5%93%B2%E5%AD%A6%E6%A6%82%E8%AE%BA%E7%AC%94%E8%AE%B0/</guid>
                 <pubDate>Wed, 31 Mar 2021 22:16:59 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -829,7 +915,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E5%93%B2%E5%AD%A6/">哲学</category>
+                                <category domain="https://voidmori.xyz/%E5%93%B2%E5%AD%A6/">哲学</category>
                             
                         
                     
@@ -844,7 +930,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
                                 
                             
                         
@@ -854,8 +940,8 @@
         
             <item>
                 <title>知觉感受与想象</title>
-                <link>https://traumtanzer.xyz/%E7%9F%A5%E8%A7%89%E6%84%9F%E5%8F%97%E4%B8%8E%E6%83%B3%E8%B1%A1/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%9F%A5%E8%A7%89%E6%84%9F%E5%8F%97%E4%B8%8E%E6%83%B3%E8%B1%A1/</guid>
+                <link>https://voidmori.xyz/%E7%9F%A5%E8%A7%89%E6%84%9F%E5%8F%97%E4%B8%8E%E6%83%B3%E8%B1%A1/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%9F%A5%E8%A7%89%E6%84%9F%E5%8F%97%E4%B8%8E%E6%83%B3%E8%B1%A1/</guid>
                 <pubDate>Sun, 28 Mar 2021 18:53:45 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -876,7 +962,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -891,7 +977,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -901,8 +987,8 @@
         
             <item>
                 <title>纯粹理性批判第二版序</title>
-                <link>https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/</guid>
+                <link>https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/</guid>
                 <pubDate>Thu, 25 Mar 2021 22:33:15 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -933,43 +1019,43 @@
 &lt;h4 id=&#34;形而上学的困境&#34;&gt;形而上学的困境&lt;/h4&gt;
 &lt;p&gt;那么，在这方面还未能发现一门 科学的 可靠道路的 原因何在呢？难道这条道路是不可能的吗？大自然究竟通过什么方式使理性沉溺于这种不知疲倦的努力，要把这条道路当作自己最重要的事务之一来追踪呢？更有甚者，如果理性在我们的 求知欲 的一个最为重要的部分不仅是抛开了我们， 而且用一些假象搪塞并最终欺骗了我们，我们又有什么理由来信任我们的理性！要么，这条道路只是至今没有达到；我们又可以凭借什么征兆来对下一次的探求充满希望，认为我们会比在我们之前的其他人更为幸运呢？&lt;/p&gt;
 &lt;p&gt;我们不能认为，通过一场 一蹴而就的革命 成为今天这个样子的数学和自然科学，作为范例，也许应予以充分注意，以便对这两门科学 赖以获得那么多好处的 思维方式 变革的最基本要点加以深思，并在这里至少尝试着 就这两门科学 作为理性知识 可与形而上学相类比而言 对它们加以模仿。 向来人们都认为， 我们的一切 知识 都必须依照 对象 ；但是在这个假定下，想要通过 概念 先天地 构成有关这些 对象 的东西 以扩展我们的 知识的一切尝试，都失败了。 因此我们不妨试试，当我们假定 对象 必须依照我们的 知识 时，我们在形而上学的任务中是否会有更好的进展。这一假定也许将更好地与所要求的 可能性 、即对  对象的 先天知识的 可能性相一致，这种知识应当在 对象被给予我们之前 就对对象有所断定。这里的情况与 哥白尼 的最初的观点是同样的，哥白尼在假定全部星体围绕观测者旋转时，对天体运动的 解释 已无法顺利进行下去了，于是他试着让观测者自己旋转，反倒让星体停留在静止之中，看看这样是否有可能取得更好的成绩。 现在，形而上学中，当涉及到 对象 的 直观 时，我们也能够以类似的方式来试验一下。如果 直观 必须依照 对象 的 性状，那么我就看不出，我们如何能先天地对对象有所认识；但如果对象（作为感官的客体）必须依照我们直观能力的性状，那么我倒是完全可以想象这种可能性。 但由于要使 直观 成为 知识 我就不能老是停留于它们之上，而必须把它们作为 表象 与某个作为 对象的东西相 关联，并 通过那些 表象 来规定这个 对象 ，所以我可能要么假定，我用来作出这种 规定 的那些 概念 也是依照该 对象 的，这样一来，我如何能 先天地&lt;/p&gt;
-&lt;p&gt;对它知道些什么这样的问题就使我又陷入了同一个困境；要么，我就假定诸对象，或者这是一样的，诸对象（作为被给予的对象）惟一在其中得到认识的 经验 ，是依照这些 概念 的，这样我马上就看到了一条更为简易的出路，因为 经验 本身就是 知性所要求的一种认识方式，知性的 规则 则必须是我还在 对象 被给予我之前 因而先天地就在我心中作为前提了，这个规则被表达在先天的 概念 中，所以 一切经验对象 都必然依照这些 概念 且必须与它们相一致。至于那些仅仅通过 理性 、也就是必然地被 思考 ，但却完全不能在经验中被给出（至少不能像理性所设想的那样被给出）的对象，那么对它们进行思考的尝试（因为它们倒是必定可以被思考的）据此就成了一个极好的试金石，用来检验我们采取的 思维方式 之改变了的 方法的东西，这就是：我们关于物先天地认识到的只是我们自己放进它里面去的东西。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34;&gt;[1]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;对它知道些什么这样的问题就使我又陷入了同一个困境；要么，我就假定诸对象，或者这是一样的，诸对象（作为被给予的对象）惟一在其中得到认识的 经验 ，是依照这些 概念 的，这样我马上就看到了一条更为简易的出路，因为 经验 本身就是 知性所要求的一种认识方式，知性的 规则 则必须是我还在 对象 被给予我之前 因而先天地就在我心中作为前提了，这个规则被表达在先天的 概念 中，所以 一切经验对象 都必然依照这些 概念 且必须与它们相一致。至于那些仅仅通过 理性 、也就是必然地被 思考 ，但却完全不能在经验中被给出（至少不能像理性所设想的那样被给出）的对象，那么对它们进行思考的尝试（因为它们倒是必定可以被思考的）据此就成了一个极好的试金石，用来检验我们采取的 思维方式 之改变了的 方法的东西，这就是：我们关于物先天地认识到的只是我们自己放进它里面去的东西。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34;&gt;[1]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref1&#34; &gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup1&#34;&gt;所以这个模仿自然科学家的方法就在于：在 可以通过一次实验加以证实或反驳 的东西里寻找 纯粹理性 的诸要素。现在，在检验纯粹理性的诸 原理 时，尤其是当它们冒险超出可能 经验 的一切界限时，就不可能（像在自然科学中那样）对理性的 对象 作出任何实验：因此对于我们 先天假定的 那些 概念 和 原理 所能做的只是，把它们如此这般地加以 安排 ，使我们能够从 两个不同的方面 来看待这些 对象 ，即一方面看作对 经验 而言的 感官 和 知性 的对象，但另（一）方面却又看作仅仅是我们 思维 的 对象，它充其量是对于 孤立的 、推进到 超出经验界限以外的 理性而言的。既然现在的情况是，如果我们从这种 双重的观点来考察事物，就会和 纯粹理性 的原则相一致，但从单方面的观点看就会产生 理性 与 自身 的不可避免的冲突，那么这个实验就判定了那种区分是正确的。   ----- 康德&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup1&#34;&gt;所以这个模仿自然科学家的方法就在于：在 可以通过一次实验加以证实或反驳 的东西里寻找 纯粹理性 的诸要素。现在，在检验纯粹理性的诸 原理 时，尤其是当它们冒险超出可能 经验 的一切界限时，就不可能（像在自然科学中那样）对理性的 对象 作出任何实验：因此对于我们 先天假定的 那些 概念 和 原理 所能做的只是，把它们如此这般地加以 安排 ，使我们能够从 两个不同的方面 来看待这些 对象 ，即一方面看作对 经验 而言的 感官 和 知性 的对象，但另（一）方面却又看作仅仅是我们 思维 的 对象，它充其量是对于 孤立的 、推进到 超出经验界限以外的 理性而言的。既然现在的情况是，如果我们从这种 双重的观点来考察事物，就会和 纯粹理性 的原则相一致，但从单方面的观点看就会产生 理性 与 自身 的不可避免的冲突，那么这个实验就判定了那种区分是正确的。   ----- 康德&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;这一试验按照我们所希望的那样成功了，它在形而上学的 第一部分 中，也就是在它研究那些 先天概念 （它们能使 经验 中与之相适合的相应 对象 被给予出来）的部分中，向形而上学许诺了一门 科学 的可靠道路。因为根据 思维方式 的这一变革，我们可以很好地解释一门 先天知识 的 可能性 ，并更进一步，对于那些给 自然界 、即经验对象的总和提供 先天基础 的法则，可以给它们配以满意的证明，而这 两种情况 按照 至今所采取的方式 都是不可能的。 但是从我们 先天认识能力 的这一 演绎 中，在形而上学的第一部分，却得出了一个意外的、对形而上学的 第二部分 所研讨的整个目的看上去极为不利的结果，这就是：我们永远不能借 这种能力 超出 可能经验的 界限，但这却恰好是 这门科学 的最根本的事务。然而，这里面也就正好包含着 反证 我们 理性 的 先天知识 的那个初次评价的结果之 真理性 的实验，即这种 知识 只适用于 现象 ，相反， 自在 的 事物本身 虽然 就其自己来说 是 实在 的，但对于我们却处于不可知 的状态。因为那必然推动我们去 超越 经验 和 一切现象之界限 的东西 就是 无条件者 ，它是理性必然在 自在之物 本身中、并且完全有理由为一切 有条件者 追求的，因而也是诸条件的 系列 作为完成了的 系列 所要求的。现在，如果我们假定我们的 经验知识 是依照作为 自在之物本身的 对象的 ，那就会出现这种情况，即 无条件者 绝不可能无矛盾地被设想 ；相反，如果我们假定我们的物的 表象 正如它给予我们的那样，并非依照作为 自在之物本身 的 物 ，反而这些 对象 作为 现象 是依照我们的 表象方式 的，上述矛盾 就消失了；因此 无条件者 决不可能在我们 所知 的（被给予我们的） 那些 物 那里去寻找，倒是必须到我们所不知道的、作为 自在之物本身 的 物 那里去找：如果是这样，那就表明我们最初只是作为 试验 而假定的东西得到了证明。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref2&#34;&gt;&lt;sup id=&#34;sup2&#34; &gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这一试验按照我们所希望的那样成功了，它在形而上学的 第一部分 中，也就是在它研究那些 先天概念 （它们能使 经验 中与之相适合的相应 对象 被给予出来）的部分中，向形而上学许诺了一门 科学 的可靠道路。因为根据 思维方式 的这一变革，我们可以很好地解释一门 先天知识 的 可能性 ，并更进一步，对于那些给 自然界 、即经验对象的总和提供 先天基础 的法则，可以给它们配以满意的证明，而这 两种情况 按照 至今所采取的方式 都是不可能的。 但是从我们 先天认识能力 的这一 演绎 中，在形而上学的第一部分，却得出了一个意外的、对形而上学的 第二部分 所研讨的整个目的看上去极为不利的结果，这就是：我们永远不能借 这种能力 超出 可能经验的 界限，但这却恰好是 这门科学 的最根本的事务。然而，这里面也就正好包含着 反证 我们 理性 的 先天知识 的那个初次评价的结果之 真理性 的实验，即这种 知识 只适用于 现象 ，相反， 自在 的 事物本身 虽然 就其自己来说 是 实在 的，但对于我们却处于不可知 的状态。因为那必然推动我们去 超越 经验 和 一切现象之界限 的东西 就是 无条件者 ，它是理性必然在 自在之物 本身中、并且完全有理由为一切 有条件者 追求的，因而也是诸条件的 系列 作为完成了的 系列 所要求的。现在，如果我们假定我们的 经验知识 是依照作为 自在之物本身的 对象的 ，那就会出现这种情况，即 无条件者 绝不可能无矛盾地被设想 ；相反，如果我们假定我们的物的 表象 正如它给予我们的那样，并非依照作为 自在之物本身 的 物 ，反而这些 对象 作为 现象 是依照我们的 表象方式 的，上述矛盾 就消失了；因此 无条件者 决不可能在我们 所知 的（被给予我们的） 那些 物 那里去寻找，倒是必须到我们所不知道的、作为 自在之物本身 的 物 那里去找：如果是这样，那就表明我们最初只是作为 试验 而假定的东西得到了证明。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref2&#34;&gt;&lt;sup id=&#34;sup2&#34; &gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id =&#34;ref2&#34; &gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup2&#34;&gt;纯粹理性的这个实验与 化学家们 的实验有很多类似之处，化学家有时称这个实验为 还原性 实验，一般则称之为  综合的  方法。 形而上学家的分析 把 纯粹先天知识 分割为两个性质极不相同的 要素 ，即作为 现象的物 的知识，以及 自在之物 本身的知识。辩证论 重又借助于 无条件者 这个 理性的 必然理念 把这两者结合成 一致 的，并发现这种一致性永远只有凭借 那种区分 才显示出来，所以这种区分是 真实 的区分。   ----- 康德&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup2&#34;&gt;纯粹理性的这个实验与 化学家们 的实验有很多类似之处，化学家有时称这个实验为 还原性 实验，一般则称之为  综合的  方法。 形而上学家的分析 把 纯粹先天知识 分割为两个性质极不相同的 要素 ，即作为 现象的物 的知识，以及 自在之物 本身的知识。辩证论 重又借助于 无条件者 这个 理性的 必然理念 把这两者结合成 一致 的，并发现这种一致性永远只有凭借 那种区分 才显示出来，所以这种区分是 真实 的区分。   ----- 康德&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;现在，当 否认了 思辨理性 在这个 超感官领域 中的一切进展之后，仍然留给我们来做的是 作一次试验 ，看看是否能在它的 实践知识 中发现一些 依据 ，来 规定 无条件者 这个 超验 的理性概念，并以某种合乎 形而上学的 愿望的方式、借助于我们只不过在 实践的 意图上 才可能的 先天知识 来超出一切可能 经验知识 的界限。而这样一种处理中 思辨理性 倒总是至少为我们作出这样一种 扩展 留下了余地，它必须让这个位置仿佛是空在那里，因而仍然听便于我们，我们甚至还受到了 思辨理性 的催促，要我们在可能的时候用 理性的实践依据 去充实那个位置。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref3&#34;&gt;&lt;sup id=&#34;sup3&#34; &gt;[3]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;现在，当 否认了 思辨理性 在这个 超感官领域 中的一切进展之后，仍然留给我们来做的是 作一次试验 ，看看是否能在它的 实践知识 中发现一些 依据 ，来 规定 无条件者 这个 超验 的理性概念，并以某种合乎 形而上学的 愿望的方式、借助于我们只不过在 实践的 意图上 才可能的 先天知识 来超出一切可能 经验知识 的界限。而这样一种处理中 思辨理性 倒总是至少为我们作出这样一种 扩展 留下了余地，它必须让这个位置仿佛是空在那里，因而仍然听便于我们，我们甚至还受到了 思辨理性 的催促，要我们在可能的时候用 理性的实践依据 去充实那个位置。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref3&#34;&gt;&lt;sup id=&#34;sup3&#34; &gt;[3]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref3&#34; &gt;
-&lt;p&gt;[3] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup3&#34;&gt;所以，天体运动的核心法则使 哥白尼 一开始只是认作 假设 的东西获得了完全的 确定性 ，同时还证明了那使宇宙结合的看不见的力（即 牛顿 的引力），这种力如果不是哥白尼大胆地以一种 违背感官 的、但毕竟是 真实的 方式，不到天空中的 对象 那里、而是到这些 对象 的 观察者 那里去寻求所观察的运动的话，是永远不会被发现的。在这篇序言里，我也只是把 这个批判 所阐明的、类似于 那个假设 的 思维方式变革 当作 假设 提出来，这只是为了使人注意到这样一场变革的最初的、无论如何都是 假设性的 试验 ，尽管在这本书自身中这种变革是由我们 时空表象 的 性状 及 知性的 基本概念 而得到 并非假设 、而是无可置疑的证明的。   ----- 康德&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup3&#34;&gt;所以，天体运动的核心法则使 哥白尼 一开始只是认作 假设 的东西获得了完全的 确定性 ，同时还证明了那使宇宙结合的看不见的力（即 牛顿 的引力），这种力如果不是哥白尼大胆地以一种 违背感官 的、但毕竟是 真实的 方式，不到天空中的 对象 那里、而是到这些 对象 的 观察者 那里去寻求所观察的运动的话，是永远不会被发现的。在这篇序言里，我也只是把 这个批判 所阐明的、类似于 那个假设 的 思维方式变革 当作 假设 提出来，这只是为了使人注意到这样一场变革的最初的、无论如何都是 假设性的 试验 ，尽管在这本书自身中这种变革是由我们 时空表象 的 性状 及 知性的 基本概念 而得到 并非假设 、而是无可置疑的证明的。   ----- 康德&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;于是，纯粹思辨理性 的这一批判的任务就在于进行那项试验，即通过我们按照 几何学家 和 自然科学家 的 范例 着手一场 形而上学 的完全革命来改变 形而上学 迄今的 处理方式 。这项批判是一本关于 方法 的书，而不是 一个科学体系本身 ；但尽管如此，它既在这门科学的 界限 上、也在其整个 内在结构 方面描画了它的 整体轮廓 。因为 纯粹思辨理性 本身具有的特点是，它能够且应当 根据它为自己选择（的） 思维对象 的各种 不同方式 来衡量自己的能力、甚至完备地列举出 它为自己提出任务的 各种方式 ，并这样来描绘 形而上学 体系的整体轮廓；因为，就第一点而言，在 先天知识 中能够赋予 对象 的无非是 思维主体 从自身中取出来的东西，而就第二点来说，形而上学 在 认识原则 方面是一个 完全分离 的、独立存在 的 统一体，在其中，像在一个有机体中那样，每一个环节都是为着所有其他环节，所有环节又都是为着一个环节而存在的，没有任何一个 原则 不同时在与整个 纯粹理性 运用的 全面关系 中得到研究而能够在 一种关系 中被可靠地把握住的。但在这方面 形而上学 也有其难得的幸运，这种幸运是任何别的 与 对象 打交道的理性科学 （因为 逻辑学 只是和思维的 一般形式 打交道）所不能分享的，这就是：一旦它通过这部批判而走上了一门科学的可靠道路，它就能够完全把握住属于它的 整个知识领域 ，因而完成它的工作，并将其作为一种 永远不能再有所增加的 资本存放起来供后人使用，因为它只和原则 及它 给自己的原则 所规定的 限制 打交道。因此这种完备性也是它作为基础科学所要求的，关于它我们必须能够说：nil actum reputans , si quid superesset agendum .&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref4&#34;&gt;&lt;sup id=&#34;sup4&#34; &gt;[4]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;于是，纯粹思辨理性 的这一批判的任务就在于进行那项试验，即通过我们按照 几何学家 和 自然科学家 的 范例 着手一场 形而上学 的完全革命来改变 形而上学 迄今的 处理方式 。这项批判是一本关于 方法 的书，而不是 一个科学体系本身 ；但尽管如此，它既在这门科学的 界限 上、也在其整个 内在结构 方面描画了它的 整体轮廓 。因为 纯粹思辨理性 本身具有的特点是，它能够且应当 根据它为自己选择（的） 思维对象 的各种 不同方式 来衡量自己的能力、甚至完备地列举出 它为自己提出任务的 各种方式 ，并这样来描绘 形而上学 体系的整体轮廓；因为，就第一点而言，在 先天知识 中能够赋予 对象 的无非是 思维主体 从自身中取出来的东西，而就第二点来说，形而上学 在 认识原则 方面是一个 完全分离 的、独立存在 的 统一体，在其中，像在一个有机体中那样，每一个环节都是为着所有其他环节，所有环节又都是为着一个环节而存在的，没有任何一个 原则 不同时在与整个 纯粹理性 运用的 全面关系 中得到研究而能够在 一种关系 中被可靠地把握住的。但在这方面 形而上学 也有其难得的幸运，这种幸运是任何别的 与 对象 打交道的理性科学 （因为 逻辑学 只是和思维的 一般形式 打交道）所不能分享的，这就是：一旦它通过这部批判而走上了一门科学的可靠道路，它就能够完全把握住属于它的 整个知识领域 ，因而完成它的工作，并将其作为一种 永远不能再有所增加的 资本存放起来供后人使用，因为它只和原则 及它 给自己的原则 所规定的 限制 打交道。因此这种完备性也是它作为基础科学所要求的，关于它我们必须能够说：nil actum reputans , si quid superesset agendum .&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref4&#34;&gt;&lt;sup id=&#34;sup4&#34; &gt;[4]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref4&#34;&gt;
-&lt;p&gt;[4] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup4&#34;&gt;拉丁文，据 瓦伦延纳 德译为：“只要还有什么要做的留下来，它就还不算是完成了。”   ----- 德文编者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup4&#34;&gt;拉丁文，据 瓦伦延纳 德译为：“只要还有什么要做的留下来，它就还不算是完成了。”   ----- 德文编者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;但如果人们要问，我们打算凭借由批判所澄清的、但也因此而达到一种 持久状态的 这样一种 形而上学 给后人留下的，究竟是一种什么样的财富呢？粗略地浏览一下这部著作，人们会以为，它的用处不过是 消极 的，就是 永远也不要冒险 凭借 思辨理性 去超越 经验的界限 ，而这事实上 也是 这种 形而上学 的第一个用处。但这个用处马上也会成为 积极 的，只要我们注意到，思辨理性 冒险用来 超出其界限 的那些原理， 若更仔细地考察，其不可避免的后果 事实上不是 扩展了 我们的理性运用 ，而是 缩小 了它，因为这些原理现实地威胁着 要把它的 原本归属于其下的 感性界限 扩展到 无所不包，从而完全排斥掉那纯粹的（实践的）理性运用。因此，一个限制那种扩展的批判，虽然就此而言是 消极 的，但由于它同时借此排除了那 限制甚至威胁 要完全取消理性的实践运用 的障碍物，事实上就具有 积极的 和非常重要的用途，只要我们确信 ，纯粹理性 有一个完全必要的实践运用（道德运用），它在其中不可避免地要扩展到 感性的界限之外，为此它虽然不需要从 思辨理性 那里得到任何帮助，但却必须抵抗它的 反作用 而使自己得到保障，以便不陷入自相矛盾。 否认批判的这一功劳有积极的作用，这就好比是说，警察没有产生积极作用，因为他们的主要工作只不过是 阻止公民对其他公民可能感到担忧的暴力行为发生 ，以便每个人都能安居乐业而已。 在这部批判的分析部分将要证明， 空间 和 时间 只是 感性直观 的 形式 ，因而只是作为 现象 的物实存的条件，此外如果不能有与 知性概念 相应的 直观 给予出来， 我们就没有任何 知性概念 、因而也没有任何 要素 可达到 物的知识 ，于是我们关于作为 自在之物本身 的任何 对象 不可能有什么知识，而只有当它是 感性直观 的 对象 、也就是作为 现象 时，才能有知识；由上述证明当然也就推出，理性的 一切思辨的知识 只要有可能，都是限制在仅仅 经验 的对象之上的。 尽管如此，有一点倒是必须注意的，就是在这方面毕竟总还是有一个 保留 ，即：我们正是对于也是作为 自在之物本身的 这同一些对象 ，哪怕不能 认识 ，至少还必须能够 思维 。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref5&#34;&gt;&lt;sup id=&#34;sup5&#34; &gt;[5]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;但如果人们要问，我们打算凭借由批判所澄清的、但也因此而达到一种 持久状态的 这样一种 形而上学 给后人留下的，究竟是一种什么样的财富呢？粗略地浏览一下这部著作，人们会以为，它的用处不过是 消极 的，就是 永远也不要冒险 凭借 思辨理性 去超越 经验的界限 ，而这事实上 也是 这种 形而上学 的第一个用处。但这个用处马上也会成为 积极 的，只要我们注意到，思辨理性 冒险用来 超出其界限 的那些原理， 若更仔细地考察，其不可避免的后果 事实上不是 扩展了 我们的理性运用 ，而是 缩小 了它，因为这些原理现实地威胁着 要把它的 原本归属于其下的 感性界限 扩展到 无所不包，从而完全排斥掉那纯粹的（实践的）理性运用。因此，一个限制那种扩展的批判，虽然就此而言是 消极 的，但由于它同时借此排除了那 限制甚至威胁 要完全取消理性的实践运用 的障碍物，事实上就具有 积极的 和非常重要的用途，只要我们确信 ，纯粹理性 有一个完全必要的实践运用（道德运用），它在其中不可避免地要扩展到 感性的界限之外，为此它虽然不需要从 思辨理性 那里得到任何帮助，但却必须抵抗它的 反作用 而使自己得到保障，以便不陷入自相矛盾。 否认批判的这一功劳有积极的作用，这就好比是说，警察没有产生积极作用，因为他们的主要工作只不过是 阻止公民对其他公民可能感到担忧的暴力行为发生 ，以便每个人都能安居乐业而已。 在这部批判的分析部分将要证明， 空间 和 时间 只是 感性直观 的 形式 ，因而只是作为 现象 的物实存的条件，此外如果不能有与 知性概念 相应的 直观 给予出来， 我们就没有任何 知性概念 、因而也没有任何 要素 可达到 物的知识 ，于是我们关于作为 自在之物本身 的任何 对象 不可能有什么知识，而只有当它是 感性直观 的 对象 、也就是作为 现象 时，才能有知识；由上述证明当然也就推出，理性的 一切思辨的知识 只要有可能，都是限制在仅仅 经验 的对象之上的。 尽管如此，有一点倒是必须注意的，就是在这方面毕竟总还是有一个 保留 ，即：我们正是对于也是作为 自在之物本身的 这同一些对象 ，哪怕不能 认识 ，至少还必须能够 思维 。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref5&#34;&gt;&lt;sup id=&#34;sup5&#34; &gt;[5]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref5&#34;&gt;
-&lt;p&gt;[5] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup5&#34;&gt;要 认识 一个 对象 ，这要求我能够证明它的 可能性 （不管是根据来自其 现实性的 经验的 证据，还是 先天地 通过 理性 来证明）。但我可以 思维 我想要 思维 的任何东西，只要我不 自相矛盾 ，也就是 只要我的 概念 是一个 可能的 观念，虽然我并不能担保 在一切可能性的总和中 是否会有一个 对象 与它相应。但为了赋予这样一个概念以 客观有效性（实在的可能性，因为前面那种可能性只是逻辑上的），就还要求某种更多的东西。但这种更多的东西恰好不一定要到 理论知识 的 来源 中去找，也可能存在于 实践知识 的 来源 中。   ----- 康德&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup5&#34;&gt;要 认识 一个 对象 ，这要求我能够证明它的 可能性 （不管是根据来自其 现实性的 经验的 证据，还是 先天地 通过 理性 来证明）。但我可以 思维 我想要 思维 的任何东西，只要我不 自相矛盾 ，也就是 只要我的 概念 是一个 可能的 观念，虽然我并不能担保 在一切可能性的总和中 是否会有一个 对象 与它相应。但为了赋予这样一个概念以 客观有效性（实在的可能性，因为前面那种可能性只是逻辑上的），就还要求某种更多的东西。但这种更多的东西恰好不一定要到 理论知识 的 来源 中去找，也可能存在于 实践知识 的 来源 中。   ----- 康德&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;因为，否则的话，就会推导出荒谬的 命题 ：没有某种 显现着的 东西 却有 现象 。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref6&#34;&gt;&lt;sup id=&#34;sup6&#34; &gt;[6]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;因为，否则的话，就会推导出荒谬的 命题 ：没有某种 显现着的 东西 却有 现象 。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref6&#34;&gt;&lt;sup id=&#34;sup6&#34; &gt;[6]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref6&#34;&gt;
-&lt;p&gt;[6] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup6&#34;&gt;原文“显现”（erscheinen）和“现象”(Erscheinung) 为同一词根的动词和动名词形式。   ----- 译者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup6&#34;&gt;原文“显现”（erscheinen）和“现象”(Erscheinung) 为同一词根的动词和动名词形式。   ----- 译者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;现在让我们假定，由于我们的批判而成为必要的这一区别，权当它没有作出，那么， 因果性 原理、因而 自然机械作用的原理 在规定这些物时就必然会对 一般地 适用于 一切物，把它们当做起作用的 原因 。因而，关于这同一个 存在物 ，例如说 人的灵魂 ，我就不能不陷入明显的 自相矛盾 ，说 灵魂 的 意志 是自由的，同时有还是服从自然必然性的，因而是不自由的：因为我在两个命题中是 按照同一个含义 、也就是作为一般物（作为 自在的事物本身 ）来设想 灵魂 的，并且，没有经过 预先的批判 也不可能作别的设想。 但如果这个批判没有弄错的话，它在这里教我们从 两种不同 意义 来设想对象，也就是或者设想为 现象 ，或者设想为 自在之物本身 ；如果对它的这些 知性概念 的 演绎 是正确的，因而 因果律 也只用在 第一种意义的 物身上，也就是就这些物是 经验对象的范围内来运用，而不再把它们又按照第二种意义置于这条原理之下，那么，这同一个 意志 就被设想为在 现象 中（在可见的行动中）必然遵循 自然法则 、因而是 不自由 的，然而另一方面又被设想为 属于物自身 ，并不服从自然法则，因而是 自由 的，在这里不会发生 矛盾 。现在，尽管我从 第二方面 来考察时并不能通过 思辨理性（更不能通过 经验 观察）来 认识 我的灵魂，因而也不能把 自由 当作一个 我把 感官世界 中的 效果 归于其下的 存在物的 属性 来认识，因为否则我就必须根据这个存在物的 实存 来确定地认识它，却又不是在 时间 中认识它（这是不可能的，因为我无法把任何 直观 加之于我的 概念 ），然而，我毕竟可以 思维 自由，就是说，自由 的 表象 至少并不包含 矛盾 ，如果我们批判地区分两种（即感性的和智（知）性的）表象方式，并因此而限制 纯粹知性 的概念、因而也是限制由它们而来的那些原理的话。 如果我现在 假定 ， 道德 必然要以作为我们 意志 的属性的 自由（最严格意义上的）为前提，因为，自由举出我们理性中那些本源的实践原理 作为自己的 先天 证据，这些 原理 没有 自由 的前提是绝对不可能有的； 但又假定 思辨理性 已证明 自由 完全不可能 被思维：那么必然地，那个前提，也就是道德的前提，就不得不让位于 其反面 包含某种明显的矛盾的那个前提，从而 自由 连同其 德性（因为如果不是已经以自由为前提的话，德性的反面就不会包含矛盾）也不得不让位于 自然机械作用 。但如果是这种情况：由于我在道德上不再需要别的，只需要自由不自相矛盾，因而至少毕竟是可 思维 的，而不一定要进一步看透它，则它对于同一个行动的 自然机械作用 （从另一种关系设想）就不会有任何障碍了：这样，德性的学说保持了自己的位置。自然学说也将保有自己的位置。 但如果不是批判预先教导我们，对于 物自身 我们无法避免自己的无知，一切我们可以在 理论上 认识 的东西都限制在单纯 现象 的范围内，那么这一切是不可能发生的。对纯粹理性的批判原理的积极作用的这种探讨，同样可以在 上帝 概念和我们 灵魂的单纯本性 的概念上指出来，但为了简短起见我暂时不谈它。所以，如果我不同时 取消 思辨理性对夸大其辞的洞见的这种僭妄，我就连为了我的 理性 的必要的实践运用而 假定上帝、自由 和 灵魂不死 都不可能。因为思辨理性为了达到这些洞见就必须使用这样的原理，这些原理由于事实上只及于 可能经验 的 对象 ，即使把它们用在不能成为 经验对象 的东西之上，它们也实际上总是将这东西转变成 现象 ，这样就把 纯粹理性 的 一切实践的扩展 都宣布为不可能的了。因此我不得不悬置 知识 ，以便给 信仰 腾出位置，而 形而上学 的 独断论 、也就是没有 纯粹理性批判 就会在 形而上学 中生长的那种成见，是一切阻碍 道德的 无信仰的 根源，这种无信仰任何时候都是非常独断的。所以，如果一门按照 纯粹理性批判 的标准来拟定的 系统的 形而上学 可以不太困难地留给后人一笔遗产，那么这笔遗产决不是一件小小的赠予；只要我们注意一下通过一门科学的可靠道路一般所能得到的理性教养，并与理性的 无根基的摸索 和 无批判的轻率漫游作个比较 ，或者也注意一下对渴望知识的青年时代在时间利用上的改善，青年人在通常的 独断论 那里这么早就受到这么多的鼓动，要对他们 一点也不理解的事物 、 对他们 在其中乃至世界上任何人在其中 都会（对）一无所见的东西随意玄想， 甚至 企图去 捏造新的 观念 和 意见，乃至忽视了去学会基本的科学知识；但最大的收获还是在人们考虑到这一无法估量的好处时，即：在所有未来的时代里，一切反对 道德 和 宗教 的异议都将以 苏格拉底 的方式、即最清楚地证明对手的无知的方式结束了。因为在这个世界上 一直都有某种 形而上学 存在，并且今后还将在世界上遇见 形而上学 ，但和它一起也会碰到一种 纯粹理性 的辩证论，因为 辩证论 对 纯粹理性 是自然的。所以哲学的 最初 和 最重要的 事务就是通过堵塞这一错误的根源而一劳永逸地消除对 形而上学 的一切不利影响。&lt;/p&gt;
-&lt;p&gt;即算在科学领域中发生了这一重要的变革，而思辨理性不得不承受在它至今所想象的财产方面的 损失 ，然而， 一切普遍的人类事务 及 人世间从 纯粹理性 的学说中所引出来的一切好处，都仍然保持在其向来存在的有利状态中，损失 的只是 学派的垄断 ，而决不涉及 人类的利益。 我要问问最固执的 独断论者 ，关于由 实体的 单纯性 推出 我们的灵魂在死后继续存在的证明 ，关于从主观上和客观上的 实践的必然性 的那些 细致的 然而 无用的 区分 得出与 普遍机械作用 相对立的 自由意志 的证明，或者关于从一个 最高实在的 存在者的概念中 （从变化之物的偶然性和第一推动者的必然性中）推出 上帝存有 的证明，当这些证明从学派那里走出来之后 ，是否在任何时候到达过公众那里 并可能对他们的信念产生过 最起码的 影响呢？如果这种情况并未发生，如果它甚至永远也不能被期望，因为普通人类知性不适合于这样细致的思辨；如果事情相反，在第一个证明方面，每个人都可察觉到的 他天赋的素质 ，即永远也不能通过 尘世 的东西（它对于人的全部使命的天禀是不充分的）来满足的素质，已经必然导致了对 来世生活 的希望，就第二个证明来说，单是对义务的清楚表达，在与爱好的 一切要求的 对立中，就已然必然导致了 自由 的意识，最后，谈到第三个证明，单是从大自然中到处看得出来的庄严的 秩序 、美 和 仁慈 ，就已经必然导致了对一个智慧的和伟大的 创世者 的信仰，如果完全只凭借这些，就已经必然导致了在 公众中 流行的信念，只要者信念立于理性的根基：那么这宗财产不仅是原封未动地保留着，而且赢得了更大得多的威望，因为各个学派从此学会了在涉及 普遍人类事务 的观点上 不自以为有更高更广的洞见，除非是广大（对于我们最值得关注的）群众也同样容易达到的洞见，因而 只把自己限制在 对这种 普遍可理解的 、对道德目的是足够的 论据的培养上。所以这种变革只涉及学派的 狂妄要求，这些学派喜欢在这方面（在其他许多别的方面他们是有权这样做的） 让人把自己看作是这样一些 真理的 惟一的 行家 和 保管者，他们只是把这些真理的 用法 传达给公众，但却把它们的 钥匙 由自己保管着（ quod mecum nescit , solus vult scire videri ）。 &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref7&#34;&gt;&lt;sup id=&#34;sup7&#34; &gt;[7]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;即算在科学领域中发生了这一重要的变革，而思辨理性不得不承受在它至今所想象的财产方面的 损失 ，然而， 一切普遍的人类事务 及 人世间从 纯粹理性 的学说中所引出来的一切好处，都仍然保持在其向来存在的有利状态中，损失 的只是 学派的垄断 ，而决不涉及 人类的利益。 我要问问最固执的 独断论者 ，关于由 实体的 单纯性 推出 我们的灵魂在死后继续存在的证明 ，关于从主观上和客观上的 实践的必然性 的那些 细致的 然而 无用的 区分 得出与 普遍机械作用 相对立的 自由意志 的证明，或者关于从一个 最高实在的 存在者的概念中 （从变化之物的偶然性和第一推动者的必然性中）推出 上帝存有 的证明，当这些证明从学派那里走出来之后 ，是否在任何时候到达过公众那里 并可能对他们的信念产生过 最起码的 影响呢？如果这种情况并未发生，如果它甚至永远也不能被期望，因为普通人类知性不适合于这样细致的思辨；如果事情相反，在第一个证明方面，每个人都可察觉到的 他天赋的素质 ，即永远也不能通过 尘世 的东西（它对于人的全部使命的天禀是不充分的）来满足的素质，已经必然导致了对 来世生活 的希望，就第二个证明来说，单是对义务的清楚表达，在与爱好的 一切要求的 对立中，就已然必然导致了 自由 的意识，最后，谈到第三个证明，单是从大自然中到处看得出来的庄严的 秩序 、美 和 仁慈 ，就已经必然导致了对一个智慧的和伟大的 创世者 的信仰，如果完全只凭借这些，就已经必然导致了在 公众中 流行的信念，只要者信念立于理性的根基：那么这宗财产不仅是原封未动地保留着，而且赢得了更大得多的威望，因为各个学派从此学会了在涉及 普遍人类事务 的观点上 不自以为有更高更广的洞见，除非是广大（对于我们最值得关注的）群众也同样容易达到的洞见，因而 只把自己限制在 对这种 普遍可理解的 、对道德目的是足够的 论据的培养上。所以这种变革只涉及学派的 狂妄要求，这些学派喜欢在这方面（在其他许多别的方面他们是有权这样做的） 让人把自己看作是这样一些 真理的 惟一的 行家 和 保管者，他们只是把这些真理的 用法 传达给公众，但却把它们的 钥匙 由自己保管着（ quod mecum nescit , solus vult scire videri ）。 &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref7&#34;&gt;&lt;sup id=&#34;sup7&#34; &gt;[7]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref7&#34;&gt;
-&lt;p&gt;[7] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup7&#34;&gt;拉丁文，意为：“凡是我与你都不知道的，就装出我是惟一知道的。”   ----- 译者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[7] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup7&#34;&gt;拉丁文，意为：“凡是我与你都不知道的，就装出我是惟一知道的。”   ----- 译者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;然而，思辨哲学家的某种合理的要求毕竟也被关注到了。思辨哲学[家]仍然是一门公众所不知道但却对于他们有用的科学、亦即 理性批判 的科学的惟一保管人；因为这门学科是永远不能 通俗化 的，但它也没必要通俗化；因为民众很少想到那些 精致地 编造出来的 对有用真理的论证，同样也不曾想过也是那么 细致的 对这些论证的 反驳；反之，由于学派以及每个致力于思辨的人都不可避免地要陷入两难，所以学派就有义务通过对 思辨理性 权利的彻底研究 一劳永逸地防止那种丑闻，这是连民众也必定会或迟或早由于那些争执而碰上的，这些争执是 形而上学家们 （最后还有作为形而上学家的神职人员）都不可避免地 毫无批判地卷入进来的，后来他们又伪造出自己的学说来。只有这种彻底的研究，才能从根子上铲除 唯物论 、宿命论 、 无神论 、 自由思想的 不信、狂信和 迷信，这些是会造成普遍的危害的，最后还有 唯心论 和 怀疑论 ，它们更多地给学派带来危险而很难进入到公众中去。如果 政府 愿意关心 学者 的事情，那么促进这种惟一能使理性的工作立足于坚实基础上的批判的自由，就是政府对科学和人类的贤明的关怀，这比支持可笑的 学派专制 要 得体 得多，这些学派 当他们的 蛛网 被破坏时 就大叫公共的危害，但公众对这些蛛网却毫不在意，所以也从来不会感到自己有什么损失。&lt;/p&gt;
-&lt;p&gt;这个批判并不与 理性 在其作为 科学的 纯粹知识 中所采取的 独断处理 处在对立之中（因为这种处理任何时候都必须是独断的，亦即从可靠的 先天原则 严格地证明的），而是与 独断论 相对立，即与那种要依照理性早已运用的 原则 、单从概念（哲学概念）中来推进某种 纯粹知识 而 从不调查 理性达到这些知识的方式和权利 的僭妄相对立。 所以 独断论 就是 纯粹理性没有预先批判他自己的能力的 独断处理 方式。因此这一对立 不是要以 自以为通俗的名义 为 肤浅的饶舌 作辩护。更不是要为推翻整个 形而上学 的 怀疑论 说话；相反，这个批判对于促进一门彻底的、作为科学的 形而上学 是一种暂时的、必要的举措，这种 形而上学 必然会是 独断的 、按照最严格的要求而 系统化 的。因而是合乎 学院规则 地（而不是通俗化地）进行的；对它的这一要求是毫不含糊的，因为它自告奋勇地要 完全先天 地 因而使思辨理性完全满意地进行它的工作。在实行批判所制定的这一计划时，亦即在 形而上学 的未来体系中 我们将有必要遵循 一切 独断哲学家 中 最伟大的哲学家 、著名的 沃尔夫 的严格方法，是他首先作出了榜样（他通过这一榜样成了至今尚未熄灭的 德意志彻底精神的 倡导者），应如何通过合乎规律地确立原则、对概念作出清晰的规定、在证明时力求严格及防止在推论中大胆跳跃，来达到一门科学的稳步前进，他也正因此而曾经特别适合于使这样一们作为 形而上学 的科学能够通过对工具、也就是纯粹理性本身的批判 而为自己预先准备好场地，如果他想到了这一点的话：他没有这样做，这不能怪他，毋宁要那个时代的 独断的思维方式 ，当时的 和所有以前时代的哲学家们 在这点上 相互之间没有什么好指责的。那些抵制他的 学问方式 但同时又 拒绝纯粹理性的 批判程序的人，其意图不是别的，只能是摆脱 科学 的约束，把 工作 变成 儿戏 ，把 确定性 变成 意见 ，把哲学变成了偏见。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref8&#34;&gt;&lt;sup id=&#34;sup8&#34; &gt;[8]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个批判并不与 理性 在其作为 科学的 纯粹知识 中所采取的 独断处理 处在对立之中（因为这种处理任何时候都必须是独断的，亦即从可靠的 先天原则 严格地证明的），而是与 独断论 相对立，即与那种要依照理性早已运用的 原则 、单从概念（哲学概念）中来推进某种 纯粹知识 而 从不调查 理性达到这些知识的方式和权利 的僭妄相对立。 所以 独断论 就是 纯粹理性没有预先批判他自己的能力的 独断处理 方式。因此这一对立 不是要以 自以为通俗的名义 为 肤浅的饶舌 作辩护。更不是要为推翻整个 形而上学 的 怀疑论 说话；相反，这个批判对于促进一门彻底的、作为科学的 形而上学 是一种暂时的、必要的举措，这种 形而上学 必然会是 独断的 、按照最严格的要求而 系统化 的。因而是合乎 学院规则 地（而不是通俗化地）进行的；对它的这一要求是毫不含糊的，因为它自告奋勇地要 完全先天 地 因而使思辨理性完全满意地进行它的工作。在实行批判所制定的这一计划时，亦即在 形而上学 的未来体系中 我们将有必要遵循 一切 独断哲学家 中 最伟大的哲学家 、著名的 沃尔夫 的严格方法，是他首先作出了榜样（他通过这一榜样成了至今尚未熄灭的 德意志彻底精神的 倡导者），应如何通过合乎规律地确立原则、对概念作出清晰的规定、在证明时力求严格及防止在推论中大胆跳跃，来达到一门科学的稳步前进，他也正因此而曾经特别适合于使这样一们作为 形而上学 的科学能够通过对工具、也就是纯粹理性本身的批判 而为自己预先准备好场地，如果他想到了这一点的话：他没有这样做，这不能怪他，毋宁要那个时代的 独断的思维方式 ，当时的 和所有以前时代的哲学家们 在这点上 相互之间没有什么好指责的。那些抵制他的 学问方式 但同时又 拒绝纯粹理性的 批判程序的人，其意图不是别的，只能是摆脱 科学 的约束，把 工作 变成 儿戏 ，把 确定性 变成 意见 ，把哲学变成了偏见。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref8&#34;&gt;&lt;sup id=&#34;sup8&#34; &gt;[8]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref8&#34;&gt;
-&lt;p&gt;[8] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup8&#34;&gt;“哲学”(Philosophie) 与“偏见”(Philodoxie)，直译为 “爱智慧” 与 “爱意见”。   ----- 编者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[8] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup8&#34;&gt;“哲学”(Philosophie) 与“偏见”(Philodoxie)，直译为 “爱智慧” 与 “爱意见”。   ----- 编者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;...... 这些原理本身及其证明，正如该计划的形式和完备性一样，我都没有发现什么要修改的地方；这部分要归功于我在将该书交付出版之前曾长时期地对它进行审查，部分要归功于这件事本身的性质，即 纯粹思辨理性 的 本性，它包含一个真实的结构，在其中所有的机能都是为了一个，而每个都是为了一切，因而每个不论多么小的缺陷，不管它是一个错误（疏忽）还是一个欠缺，都必然会在运用中不可避免地泄漏出来。这个体系将如我所希望的 长久地维持这种不变性。是我有理由相信这一点的不是自负，而只是这个实验所产生的自明性，即从 纯粹理性 的最小要素出发 直到它的整体，并且反过来从整体出发（因为即使整体也是单独由 纯粹理性 的最终意图 在 实践中给出的）直到每一个部分，结果是相等的，因为试图哪怕 只改动最小的部分 马上就会导致 矛盾，不光是这个体系的矛盾，而且是普遍人类理性的矛盾。不过在它的表述上还有很多事要做，我在这一版中试图作出的改进，有的是要纠正对 感性论 部分的误解，尤其是对 时间 概念 的误解，有的是要澄清 知性  概念 演绎 的模糊性，有的是要弥补在纯粹知性概念原理的证明中被认为在 充分的自明性 上的缺乏，最后，有的是要补救从合理的 心理学 中推出的 谬误推理 方面的误会。到此为止（也就是直到 先验辩证论 第一章结束）后面的部分我就没有再作 表述方式 上的改动了。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref9&#34;&gt;&lt;sup id=&#34;sup9&#34; &gt;[9]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...... 这些原理本身及其证明，正如该计划的形式和完备性一样，我都没有发现什么要修改的地方；这部分要归功于我在将该书交付出版之前曾长时期地对它进行审查，部分要归功于这件事本身的性质，即 纯粹思辨理性 的 本性，它包含一个真实的结构，在其中所有的机能都是为了一个，而每个都是为了一切，因而每个不论多么小的缺陷，不管它是一个错误（疏忽）还是一个欠缺，都必然会在运用中不可避免地泄漏出来。这个体系将如我所希望的 长久地维持这种不变性。是我有理由相信这一点的不是自负，而只是这个实验所产生的自明性，即从 纯粹理性 的最小要素出发 直到它的整体，并且反过来从整体出发（因为即使整体也是单独由 纯粹理性 的最终意图 在 实践中给出的）直到每一个部分，结果是相等的，因为试图哪怕 只改动最小的部分 马上就会导致 矛盾，不光是这个体系的矛盾，而且是普遍人类理性的矛盾。不过在它的表述上还有很多事要做，我在这一版中试图作出的改进，有的是要纠正对 感性论 部分的误解，尤其是对 时间 概念 的误解，有的是要澄清 知性  概念 演绎 的模糊性，有的是要弥补在纯粹知性概念原理的证明中被认为在 充分的自明性 上的缺乏，最后，有的是要补救从合理的 心理学 中推出的 谬误推理 方面的误会。到此为止（也就是直到 先验辩证论 第一章结束）后面的部分我就没有再作 表述方式 上的改动了。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#ref9&#34;&gt;&lt;sup id=&#34;sup9&#34; &gt;[9]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref9&#34;&gt;
-&lt;p&gt;[9] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup9&#34;&gt;真正的、但毕竟只是在 证明方式 中的增加，我大概只能举出我在第 273页 通过一个对 心理学唯心论 的 新反驳、以及一个关于 外部直观的 客观实在性的 严格的（我认为也是惟一可能的）证明所作的增加。 唯心论 尽可以就 形而上学的 根本目的而言 仍然被看作是无辜的（事实上它并非如此），然而 哲学 和 普遍人类理性 的丑闻仍然存在，即不得不 仅仅在信仰上 假定 在我们之外的物（我们毕竟从它们那里 为我们的 内感官 获得了 认识 本身的 全部材料）的存有，并且，如果有人忽然想到要怀疑这种存有，我们没有任何足够的证据能够反驳他。由于在这个证明的表述中，从第三行到第六行有些含混不清，我请大家将这一段改为：“但这一 持存之物 不可能是我心中的一个 直观。因为我能在我心中遇到的 有关我的存有的 一切规定根据 都是表象，并且作为表象，它们本身就需要一个与它们区别开来的 持存之物 ，在与该物的关系中 这些表象的变化 、 因而表象在其中变化的 那个时间中的 我的存有 才能得到规定。 ”人们对于这个证明也许会说： 我直接意识到的 毕竟只是 在我心中存在的东西，即我的 外在事物的 表象 ；结果问题仍然还是没有解决：某物是 与表象相应的 外在于我的 东西呢，或者不是。不过我是通过 内部经验 而意识到 我在时间中的存有 （因而也意识到它在时间中的 可规定性）的，这一点是比单纯意识到 我的表象 要更多些，它倒是等同于 对我的存有的的 经验性的意识 ，这个意识只有通过 与某种和我的实存结合着的 外在于我的东西 发生关系才能得到规定。因此对我的 在时间中的 存有的意识 是与对 在我之外的某物的关系的意识 结合为一体的，所以它是 经验 而不是 虚构 ，是 感觉 ，而不是 想象力 ，它把 外部的东西 和 我的内感官 不可分割地连结起来；因为 外感观 本身已经是 直观 和 某种外在于我的 现实之物的 关系了，而它的 与 想像（象） 不同的 实在性 仅仅是建立在它 作为内部经验本身的 可能性条件 而与 内部经验 不可分割地结合在一起之上，这就是这里的情况。假如我可以在 伴随着我的一切 判断 和 知性活动 的我在表象中，同时通过 智（知）性的直观 把我的存有的 一个规定 与我的存有的 智（知）性意识结合起来，那么一种对外在于我的 某物的 关系的 意识 就不一定属于这种 智（知）性直观了。但现在，那个智（知）性意识虽然是先行的，但我的存有 惟一能在其中得到规定的 内直观  却是 感性的 并且与时间条件结合着的，而 这一规定 、因而 内部经验 本身都依赖于某种 不在我心中 、所以只在我之外的 某物中的 持存之物 ，我必须在 对它的关系中 来观察我自己：这样，外感官的实在性为了一般经验的可能而必须和 内感官的实在性 相结合：就是说，我如此肯定地知道，有 在我之外 与我的 感官 发生关系 的 物，正如我知道我本人在 时间中确定地实存 着一样。但现在，外在于我的客体 究竟是现实地与哪些给予的 直观 相应，因而是属于外部 感官 的（这些直观应归因于它，而不是归因于想象力），这必须在每一 特殊情况里 根据一般经验（甚至是内部经验）据以与 想象 区别开来的 规则 来决定，在此永远成为基础的原理是：实际上有外部经验。 对此我们还可以加上一条说明：关于某种 存有中的 持存之物的表象 与  持存的表象 不是等同的；因为前者如同我们的 一切表象、甚至物质的表象一样，可以是极为 游移不定 和 变动不居 的，但它毕竟与某种 持存之物 相关，这种持存之物因而必须是与 我的一切表象不同的 外在之物 ，它的实存必然同时被包含在 对我自己存有的 规定 之中，并与这个 规定 一起构成一个惟一的经验，这经验如果不同时（部分地）又是外在的，它就连 在内部 也不会发生了。 这是如何可能的？ 在这里不能作进一步的解释，正如我们也不能解释，一般说来我们如何能思考 时间 中那个和 变动之物 共存 便产生出变化概念来的 常住之物 。   ----- 康德&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[9] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%BA%8C%E7%89%88%E5%BA%8F/#sup9&#34;&gt;真正的、但毕竟只是在 证明方式 中的增加，我大概只能举出我在第 273页 通过一个对 心理学唯心论 的 新反驳、以及一个关于 外部直观的 客观实在性的 严格的（我认为也是惟一可能的）证明所作的增加。 唯心论 尽可以就 形而上学的 根本目的而言 仍然被看作是无辜的（事实上它并非如此），然而 哲学 和 普遍人类理性 的丑闻仍然存在，即不得不 仅仅在信仰上 假定 在我们之外的物（我们毕竟从它们那里 为我们的 内感官 获得了 认识 本身的 全部材料）的存有，并且，如果有人忽然想到要怀疑这种存有，我们没有任何足够的证据能够反驳他。由于在这个证明的表述中，从第三行到第六行有些含混不清，我请大家将这一段改为：“但这一 持存之物 不可能是我心中的一个 直观。因为我能在我心中遇到的 有关我的存有的 一切规定根据 都是表象，并且作为表象，它们本身就需要一个与它们区别开来的 持存之物 ，在与该物的关系中 这些表象的变化 、 因而表象在其中变化的 那个时间中的 我的存有 才能得到规定。 ”人们对于这个证明也许会说： 我直接意识到的 毕竟只是 在我心中存在的东西，即我的 外在事物的 表象 ；结果问题仍然还是没有解决：某物是 与表象相应的 外在于我的 东西呢，或者不是。不过我是通过 内部经验 而意识到 我在时间中的存有 （因而也意识到它在时间中的 可规定性）的，这一点是比单纯意识到 我的表象 要更多些，它倒是等同于 对我的存有的的 经验性的意识 ，这个意识只有通过 与某种和我的实存结合着的 外在于我的东西 发生关系才能得到规定。因此对我的 在时间中的 存有的意识 是与对 在我之外的某物的关系的意识 结合为一体的，所以它是 经验 而不是 虚构 ，是 感觉 ，而不是 想象力 ，它把 外部的东西 和 我的内感官 不可分割地连结起来；因为 外感观 本身已经是 直观 和 某种外在于我的 现实之物的 关系了，而它的 与 想像（象） 不同的 实在性 仅仅是建立在它 作为内部经验本身的 可能性条件 而与 内部经验 不可分割地结合在一起之上，这就是这里的情况。假如我可以在 伴随着我的一切 判断 和 知性活动 的我在表象中，同时通过 智（知）性的直观 把我的存有的 一个规定 与我的存有的 智（知）性意识结合起来，那么一种对外在于我的 某物的 关系的 意识 就不一定属于这种 智（知）性直观了。但现在，那个智（知）性意识虽然是先行的，但我的存有 惟一能在其中得到规定的 内直观  却是 感性的 并且与时间条件结合着的，而 这一规定 、因而 内部经验 本身都依赖于某种 不在我心中 、所以只在我之外的 某物中的 持存之物 ，我必须在 对它的关系中 来观察我自己：这样，外感官的实在性为了一般经验的可能而必须和 内感官的实在性 相结合：就是说，我如此肯定地知道，有 在我之外 与我的 感官 发生关系 的 物，正如我知道我本人在 时间中确定地实存 着一样。但现在，外在于我的客体 究竟是现实地与哪些给予的 直观 相应，因而是属于外部 感官 的（这些直观应归因于它，而不是归因于想象力），这必须在每一 特殊情况里 根据一般经验（甚至是内部经验）据以与 想象 区别开来的 规则 来决定，在此永远成为基础的原理是：实际上有外部经验。 对此我们还可以加上一条说明：关于某种 存有中的 持存之物的表象 与  持存的表象 不是等同的；因为前者如同我们的 一切表象、甚至物质的表象一样，可以是极为 游移不定 和 变动不居 的，但它毕竟与某种 持存之物 相关，这种持存之物因而必须是与 我的一切表象不同的 外在之物 ，它的实存必然同时被包含在 对我自己存有的 规定 之中，并与这个 规定 一起构成一个惟一的经验，这经验如果不同时（部分地）又是外在的，它就连 在内部 也不会发生了。 这是如何可能的？ 在这里不能作进一步的解释，正如我们也不能解释，一般说来我们如何能思考 时间 中那个和 变动之物 共存 便产生出变化概念来的 常住之物 。   ----- 康德&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;...... 我在好几篇公开发表的文章中（部分是在对一些书的评论中，部分是在单篇论文中）怀着感激的愉快看到，德意志的彻底精神没有死灭，而只是暂时被思想中天才式的自由的时髦风气的喧嚣盖过了，而批判的荆棘小路，即通往一门学术性的、但惟有这样才是持久的、也才是有最高必然性的纯粹理性科学的荆棘小路，并没有阻碍勇敢聪慧的人去掌握这门科学 ......&lt;/p&gt;
 &lt;p&gt;...... 危险并不在于遭到反驳，倒是在于不被理解...... &lt;/p&gt;
@@ -986,7 +1072,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -1001,7 +1087,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%93%B2%E5%AD%A6/">哲学</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%93%B2%E5%AD%A6/">哲学</category>
                                 
                             
                         
@@ -1011,8 +1097,8 @@
         
             <item>
                 <title>纯粹理性批判第一版序</title>
-                <link>https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/</guid>
+                <link>https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/</guid>
                 <pubDate>Thu, 25 Mar 2021 22:31:03 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1026,19 +1112,19 @@
 &lt;h3 id=&#34;第一版序&#34;&gt;第一版序&lt;/h3&gt;
 &lt;p&gt;人类理性在其知识的某个门类里有一种特殊的命运，就是：它为一些它无法摆脱的问题所困扰；因为这些问题是由理性自身的本性向自己提出来的，但它又不能回答它们；因为这些问题超越了人类理性的一切能力。人类理性陷入这种困境并不是它的罪过。它是从在经验的进程中不可避免地要运用、同时又通过经验而充分验证了其运用的有效性的那些基本原理出发的。借助于这些原理，它（正如它的本性所导致的那样）步步高升而达更遥远的条件。但由于它发现，以这种方式它的工作必将永远停留在未完成状态，因为这些问题永远无法解决，这样，它就看到自己不得不求助于一些原理，这些原理超越一切可能的经验运用，却仍然显得是那么不容怀疑，以至于就连普通的人类理性也对此表示同意。但这样一来，人类理性也就跌入到黑暗和矛盾冲突之中，它虽然由此可以得悉，必定在某个地方隐藏着某些根本性的错误，但他（它）无法把它们揭示出来，因为它所使用的那些原理当超出了一切经验的界限时，就不再承认什么经验的试金石了。这些无休止的争吵的战场，就叫做形而上学。&lt;/p&gt;
 &lt;p&gt;...... 曾经有一个时候，形而上学被称为一切科学的 女王 ，并且，如果把愿望当作实际的话，那么她由于其 对象 的突出的重要性，倒是值得这一称号。&lt;/p&gt;
-&lt;p&gt;...... 这位受到驱赶和遗弃的老妇像赫卡柏&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34; &gt;[1]&lt;/sup&gt;&lt;/a&gt; 一样抱怨：modo maxima rerum,tot generis natisque potens ---- nunc trahor exul,inops ---- Ovid. Metam. &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref2&#34;&gt;&lt;sup id=sup2 &gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...... 这位受到驱赶和遗弃的老妇像赫卡柏&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34; &gt;[1]&lt;/sup&gt;&lt;/a&gt; 一样抱怨：modo maxima rerum,tot generis natisque potens ---- nunc trahor exul,inops ---- Ovid. Metam. &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref2&#34;&gt;&lt;sup id=sup2 &gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref1&#34;&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup1&#34;&gt;赫卡柏（Hecuba），希腊神话中的特洛伊王后，赫克托尔的母亲，特洛伊被攻陷后成了俘虏，下场悲惨。 ----- 译者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup1&#34;&gt;赫卡柏（Hecuba），希腊神话中的特洛伊王后，赫克托尔的母亲，特洛伊被攻陷后成了俘虏，下场悲惨。 ----- 译者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref2&#34;&gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup2&#34;&gt;拉丁文，引自奥维德的《变形记》，据瓦伦延纳（Valentiner）德译为：“不久前我还是万人之上，以我众多的女婿和孩子而当上女王----- 到如今我失去了我的祖国， 孤苦伶仃被流放他乡。” ----- 译者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup2&#34;&gt;拉丁文，引自奥维德的《变形记》，据瓦伦延纳（Valentiner）德译为：“不久前我还是万人之上，以我众多的女婿和孩子而当上女王----- 到如今我失去了我的祖国， 孤苦伶仃被流放他乡。” ----- 译者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;h4 id=&#34;形而上学的统治&#34;&gt;形而上学的统治&lt;/h4&gt;
 &lt;p&gt;最初，形而上学的统治在独断论者的管辖下是专制的。 不过，由于这种立法还带有古代野蛮的痕迹，所以它就因为内战而一步步沦为了完全的 无政府状态 ，而 怀疑论者 类似于游牧民族，他们憎恶一切地面的牢固建筑，便时时来拆散市民的联盟。但幸好他们只是少数人，所以他们不能阻止 独断论者 一再地试图把这种联盟重新建立起来，哪怕并不是根据任何在他们中一致同意的计划。在近代，虽然一度看来这一切争论似乎应当通过（由著名的洛克所提出的）人类知性的某种自然之学（Physiologie）来作一个了结，并对那些要求的合法性进行完全的裁决；但结果却是，尽管那位所谓的 女王 的出身是来自普通经验的 贱民，因而她的非分要求本来是理应受到怀疑的，然而，由于这一 世系 事实上是虚假地为她捏造出来的，她就可以仍然坚持她的要求，这就使得一切又重新坠入那陈旧的、千疮百孔的 独断论 中去，并由此而陷入到人们想要使科学摆脱出来的那种被蔑视的境地。今天，当一切道路(正如人们所以为的)都白费力气地尝试过了之后，在科学中占统治的是厌倦和彻底的 冷淡态度，是混沌和黑夜之母，但毕竟也有这些科学临近改造和澄清的苗头，至少是其序幕，它们是由于用力用得完全不是地方而变得模糊、混乱和不适用的。&lt;/p&gt;
 &lt;h4 id=&#34;纯粹理性批判-1&#34;&gt;纯粹理性批判&lt;/h4&gt;
-&lt;p&gt;因此，想要对这样一些研究故意装作无所谓的态度是徒劳的，这种研究的对象对于人类的本性来说不可能是无所谓的。上述那些伪称的冷淡主义者也是这样，不论他们如何想通过改换学院语言而以 大众化的口吻 来伪装自己，只要他们在任何地方想到某物，他们就不可避免地退回到 他们曾装作极为鄙视的那些 形而上学 的主张上去。然而，这种在一切科学繁盛的中心发生并恰好针对这这些科学的无所谓态度 -----这些科学的知识一当（但）它们能够被拥有，人们就无论如何也不会对之有丝毫放弃-----毕竟是一种值得注意和深思的 现象。这种态度显然不是思想轻浮的产物，而是这个时代的成熟的判断力&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref3&#34;&gt;&lt;sup id=&#34;sup3&#34; &gt;[3]&lt;/sup&gt;&lt;/a&gt;的结果，这个时代不能够再被虚假的知识拖后腿了，它是对理性的吁求，要求它重新接过它的一切任务中最困难的那件任务，即自我认识的任务，并委任一个法庭，这个法庭能够接受理性的合法性保障的请求，相反，对于一切无根据的非分要求，不是通过强制命令，而是能按照理性的永恒不变的法则来处理，而这个法庭不是别的，正是纯粹理性批判。&lt;/p&gt;
+&lt;p&gt;因此，想要对这样一些研究故意装作无所谓的态度是徒劳的，这种研究的对象对于人类的本性来说不可能是无所谓的。上述那些伪称的冷淡主义者也是这样，不论他们如何想通过改换学院语言而以 大众化的口吻 来伪装自己，只要他们在任何地方想到某物，他们就不可避免地退回到 他们曾装作极为鄙视的那些 形而上学 的主张上去。然而，这种在一切科学繁盛的中心发生并恰好针对这这些科学的无所谓态度 -----这些科学的知识一当（但）它们能够被拥有，人们就无论如何也不会对之有丝毫放弃-----毕竟是一种值得注意和深思的 现象。这种态度显然不是思想轻浮的产物，而是这个时代的成熟的判断力&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref3&#34;&gt;&lt;sup id=&#34;sup3&#34; &gt;[3]&lt;/sup&gt;&lt;/a&gt;的结果，这个时代不能够再被虚假的知识拖后腿了，它是对理性的吁求，要求它重新接过它的一切任务中最困难的那件任务，即自我认识的任务，并委任一个法庭，这个法庭能够接受理性的合法性保障的请求，相反，对于一切无根据的非分要求，不是通过强制命令，而是能按照理性的永恒不变的法则来处理，而这个法庭不是别的，正是纯粹理性批判。&lt;/p&gt;
 &lt;div id=&#34;ref3&#34; &gt;
-&lt;p&gt;[3] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup3&#34;&gt;人们时常听到抱怨当代思维方式的肤浅和彻底科学研究的沦落。但我看不出那些根基牢固的科学如 数学 和 物理学 等等有丝毫值得如此责备的地方，相反，它们维护了彻底性的这种古老的荣誉，而在物理学中甚至超过以往。而现在，正是同一个彻底精神也将在另一些知识类型中表明其作用，只要我们首先留意对它们的原则加以校正。在缺乏这种校正的情况下，冷淡、怀疑，最后是严格的批判。反倒是彻底的思维方式的证据。我们的时代是正真的批判时代，一切都必须经受批判。通常，宗教 凭借其 神圣性 ，而 立法 凭借其 权威 ，想要逃脱批判。但这样一来，它们就激起了对自身的正当的怀疑，并无法要求别人不加伪饰的敬重，理性只会把这种尊重给予那经受得住它的自由而公开的检验的事物。----- 康德&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup3&#34;&gt;人们时常听到抱怨当代思维方式的肤浅和彻底科学研究的沦落。但我看不出那些根基牢固的科学如 数学 和 物理学 等等有丝毫值得如此责备的地方，相反，它们维护了彻底性的这种古老的荣誉，而在物理学中甚至超过以往。而现在，正是同一个彻底精神也将在另一些知识类型中表明其作用，只要我们首先留意对它们的原则加以校正。在缺乏这种校正的情况下，冷淡、怀疑，最后是严格的批判。反倒是彻底的思维方式的证据。我们的时代是正真的批判时代，一切都必须经受批判。通常，宗教 凭借其 神圣性 ，而 立法 凭借其 权威 ，想要逃脱批判。但这样一来，它们就激起了对自身的正当的怀疑，并无法要求别人不加伪饰的敬重，理性只会把这种尊重给予那经受得住它的自由而公开的检验的事物。----- 康德&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;但我所理解的纯粹理性批判，不是对某些 书 或 体系 的批判，而是对 一般理性能力 的批判，是就 一切可以独立于任何经验 而追求的知识来说的。因而是对一般 形而上学 的可能性 和 不可能性 进行裁决，对它的根源、范围和界限加以规定，但这一切都是出自原则。&lt;/p&gt;
 &lt;p&gt;...... 我找到了迄今使理性在摆脱经验的运用中与自身相分裂的一切谬误得以消除的办法。对于理性的这些问题，我不是例如通过借口人类理性的无能而加以回避，而是根据原则将它们完备地详细开列出来，并把在理性对它自己的误解之点揭示出来之后，对这些问题进行使理性完全满意的解决。虽然对那些问题得出的回答根本不是像独断论的狂热的追求者们所可能期望的那样；因为这些人除了我所不在行的魔法力量之外，没有什么能够使他们满足。然而，这倒也并非我们理性的自然使命原来的意图；哲学的职责曾经是：消除由误解而产生的幻觉，哪怕与此同时还要去掉很多被 高度评价 和 热爱 的 妄想 。在这件工作中我把很大的关注放在了详尽性方面，我敢说，没有一个形而上学的问题在这里没有得到解决，或至少为其解决提供了钥匙。事实上，就连纯粹理性也是一个如此完善的统一体：只要它的原则哪怕在它凭自己的本性所提出的一切问题中的一个问题上是不充分的，人们就只好将这个原则抛弃，因为这样一来它也就无法胜任以完全的可靠性来处理任何其他问题了。&lt;/p&gt;
@@ -1050,15 +1136,15 @@
 &lt;h4 id=&#34;纯粹知性&#34;&gt;纯粹知性&lt;/h4&gt;
 &lt;p&gt;我不知道在对我们所谓 知性的能力 加以探索并对其运用的 规则和界限 进行 规定 的研究中，有什么比我在题为 纯粹知性概念的演绎的先验分析论 第二章中所从事的研究更重要的了；这些研究也是我花费了最多的、但我希望不是没有回报的精力的地方。 但这一颇为深入的考察有两个方面。 一方面涉及到 纯粹知性 的那些对象，应当对知性的先天概念的客观有效性作出阐明和把握；正因此这也是属于我的目的中本质的方面。 另（一）方面则是着眼于 纯粹知性 本身，探讨它的可能性和它自身立足于其上的 认识能力 ，因而是在 主观的 关系中来考察它，但即使这种讨论对我的主要目的极其重要，但毕竟不是属于主要目的的本质的部分；因为主要问题仍然是： 知性 和 理性 脱离 一切经验 能够认识什么、认识多少？而不是：思维能力 自身是 如何可能的？ 由于后一个问题仿佛是在寻找某个已给予 结果 的 原因 ，因而本身具有某种类似于一个假设的性质（尽管如我在另一个地方将要指出的，事实并非如此。）。所以看起来在这里的情况似乎是。由于我允许自己发表这种意见，我也就不得不听凭读者发表另一种意见。 ......&lt;/p&gt;
 &lt;p&gt;最后，谈到 明晰性 ，那么读者有权首先要求有 凭借概念的那种推理的 （逻辑的）明晰性，但然后也可以要求有 凭借直观的直觉的 （感性的）明晰性，即凭借实例或其他具体说明的明晰性。......&lt;/p&gt;
-&lt;p&gt;...... 但我马上看出我将要处理的那些课题之巨大和对象之繁多，并觉得这一切单是以枯燥的、纯粹 经院的 方式来陈述就已经会使这本书够庞大的了，所以我感到用那些仅仅是为了 通俗化 的目的而必要的实例说明来使这本书变得更加膨胀是不可取的，尤其是，这本书决不会适合于大众的使用，而真正的科学内行（涵）又并不那么迫切需要这样一种方便，尽管这种方便总是令人舒服的，但在这里甚至可能引出某种与目的相违背的结果出来。 虽然修道院院长特拉松尝云&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref4&#34;&gt;&lt;sup id=&#34;sup4&#34;&gt;[4]&lt;/sup&gt;&lt;/a&gt;： 如果对一本书的篇幅不是按页数、而是按人们理解它所需要的时间来衡量的话，那么对有些书我们就可以说，  如果它不是这么短的话，它将会更加短得多。&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref5&#34;&gt;&lt;sup id=&#34;sup5&#34;&gt;[5]&lt;/sup&gt;&lt;/a&gt;  但另一方面，如果我们把目的放在对宽泛但却结合于一条原则中的那个思辨知识总体的可理解性之上，那么我们就会有同样的正当理由说： 有些书，如果它并不想说得如此明晰的话，它就会更加明晰得多。这是因为明晰性的辅助手段虽然在部分中有效&lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref6&#34;&gt;&lt;sup id=&#34;sup6&#34;&gt;[6]&lt;/sup&gt;&lt;/a&gt;，但在整体中往往分散了，这样它们就不能足够快地让读者达到对整体的综观，倒是它们所有那些 明亮的色彩 贴在体系的结合部或骨架上，使它们面目全非了，而为了能对这个体系的统一性和杰出之处下判断，最关键的却是这种骨架。&lt;/p&gt;
+&lt;p&gt;...... 但我马上看出我将要处理的那些课题之巨大和对象之繁多，并觉得这一切单是以枯燥的、纯粹 经院的 方式来陈述就已经会使这本书够庞大的了，所以我感到用那些仅仅是为了 通俗化 的目的而必要的实例说明来使这本书变得更加膨胀是不可取的，尤其是，这本书决不会适合于大众的使用，而真正的科学内行（涵）又并不那么迫切需要这样一种方便，尽管这种方便总是令人舒服的，但在这里甚至可能引出某种与目的相违背的结果出来。 虽然修道院院长特拉松尝云&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref4&#34;&gt;&lt;sup id=&#34;sup4&#34;&gt;[4]&lt;/sup&gt;&lt;/a&gt;： 如果对一本书的篇幅不是按页数、而是按人们理解它所需要的时间来衡量的话，那么对有些书我们就可以说，  如果它不是这么短的话，它将会更加短得多。&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref5&#34;&gt;&lt;sup id=&#34;sup5&#34;&gt;[5]&lt;/sup&gt;&lt;/a&gt;  但另一方面，如果我们把目的放在对宽泛但却结合于一条原则中的那个思辨知识总体的可理解性之上，那么我们就会有同样的正当理由说： 有些书，如果它并不想说得如此明晰的话，它就会更加明晰得多。这是因为明晰性的辅助手段虽然在部分中有效&lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#ref6&#34;&gt;&lt;sup id=&#34;sup6&#34;&gt;[6]&lt;/sup&gt;&lt;/a&gt;，但在整体中往往分散了，这样它们就不能足够快地让读者达到对整体的综观，倒是它们所有那些 明亮的色彩 贴在体系的结合部或骨架上，使它们面目全非了，而为了能对这个体系的统一性和杰出之处下判断，最关键的却是这种骨架。&lt;/p&gt;
 &lt;div id= &#34;ref4&#34;&gt;
-&lt;p&gt;[4] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup4&#34;&gt;康德引证的是特拉松院长的《哲学，按其对精神与道德的一切对象的一般影响来看》一书（1754年），1762年德文版第117页。 ----- 据英译本&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup4&#34;&gt;康德引证的是特拉松院长的《哲学，按其对精神与道德的一切对象的一般影响来看》一书（1754年），1762年德文版第117页。 ----- 据英译本&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref5&#34;&gt;
-&lt;p&gt;[5] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup5&#34;&gt;意为：如果篇幅更长一点，就更容易理解一些。 ----- 译者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup5&#34;&gt;意为：如果篇幅更长一点，就更容易理解一些。 ----- 译者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref6&#34;&gt;
-&lt;p&gt;[6] &lt;a href=&#34;https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup6&#34;&gt;“有效（helfen）”原文为“缺乏（fehlen）”，含义不明，兹据罗森克朗茨（Rosenkranz）校改。 ----- 据德文编者&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6] &lt;a href=&#34;https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E7%AC%AC%E4%B8%80%E7%89%88%E5%BA%8F/#sup6&#34;&gt;“有效（helfen）”原文为“缺乏（fehlen）”，含义不明，兹据罗森克朗茨（Rosenkranz）校改。 ----- 据德文编者&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;h4 id=&#34;无条件完备&#34;&gt;无条件完备&lt;/h4&gt;
 &lt;p&gt;我以为，对读者可以构成不小的诱惑的是，将他的努力和作者的努力结合起来，如果作者有希望按照所提出的构想完整地并且持之以恒地完成一步巨大而重要的著作的话。现在，形而上学，按照我们在此将给出的它的概念，是一切科学中惟一的一门这样的科学，它可以许诺这样一种完成，即在较短的时间内，只花较少的、但却是联合的力气来完成它，以至于不再给后世留下什么工作，只除了以 教学法的 风格按照自己的意图 把一切都加以编排，而并不因此就会对内容有丝毫增加。因为这无非是对我们所拥有的一切财产的 清单 通过 纯粹 理性加以系统地整理而已。我们在这里没有忽略任何东西，因为凡是理性完全从自身中带来的东西，都不会隐藏起来，而是只要我们揭示了它的共同原则，本身就会由理性带到光天化日之下。对于出自真正纯粹概念的知识，任何 经验的东西 或 哪怕只是 应当导致确定经验的 特殊直观 都不能对之产生丝毫影响而使之 扩展 和 增加 ，这类知识的完全的统一性，将会使这种无条件的完备性成为不仅是可行的，而且是必然的。Tecum habita etnoris ,quam sit tibi curta supellex. Persius.&lt;/p&gt;
@@ -1073,7 +1159,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -1088,7 +1174,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%93%B2%E5%AD%A6/">哲学</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%93%B2%E5%AD%A6/">哲学</category>
                                 
                             
                         
@@ -1098,8 +1184,8 @@
         
             <item>
                 <title>纯粹理性批判中译版序</title>
-                <link>https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E4%B8%AD%E8%AF%91%E7%89%88%E5%BA%8F/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E4%B8%AD%E8%AF%91%E7%89%88%E5%BA%8F/</guid>
+                <link>https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E4%B8%AD%E8%AF%91%E7%89%88%E5%BA%8F/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4%E4%B8%AD%E8%AF%91%E7%89%88%E5%BA%8F/</guid>
                 <pubDate>Thu, 25 Mar 2021 22:27:42 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1150,7 +1236,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -1165,7 +1251,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%93%B2%E5%AD%A6/">哲学</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%93%B2%E5%AD%A6/">哲学</category>
                                 
                             
                         
@@ -1175,8 +1261,8 @@
         
             <item>
                 <title>梦的解析摘录</title>
-                <link>https://traumtanzer.xyz/%E6%A2%A6%E7%9A%84%E8%A7%A3%E6%9E%90%E6%91%98%E5%BD%95/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E6%A2%A6%E7%9A%84%E8%A7%A3%E6%9E%90%E6%91%98%E5%BD%95/</guid>
+                <link>https://voidmori.xyz/%E6%A2%A6%E7%9A%84%E8%A7%A3%E6%9E%90%E6%91%98%E5%BD%95/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E6%A2%A6%E7%9A%84%E8%A7%A3%E6%9E%90%E6%91%98%E5%BD%95/</guid>
                 <pubDate>Thu, 25 Mar 2021 22:25:03 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1481,7 +1567,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -1496,7 +1582,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%BF%83%E7%90%86%E5%AD%A6/">心理学</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%BF%83%E7%90%86%E5%AD%A6/">心理学</category>
                                 
                             
                         
@@ -1506,8 +1592,8 @@
         
             <item>
                 <title>土拨鼠</title>
-                <link>https://traumtanzer.xyz/%E5%9C%9F%E6%8B%A8%E9%BC%A0/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E5%9C%9F%E6%8B%A8%E9%BC%A0/</guid>
+                <link>https://voidmori.xyz/%E5%9C%9F%E6%8B%A8%E9%BC%A0/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E5%9C%9F%E6%8B%A8%E9%BC%A0/</guid>
                 <pubDate>Thu, 25 Mar 2021 22:08:19 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1537,7 +1623,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -1552,7 +1638,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -1562,8 +1648,8 @@
         
             <item>
                 <title>我如是般死去</title>
-                <link>https://traumtanzer.xyz/%E6%88%91%E5%A6%82%E6%98%AF%E8%88%AC%E6%AD%BB%E5%8E%BB/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E6%88%91%E5%A6%82%E6%98%AF%E8%88%AC%E6%AD%BB%E5%8E%BB/</guid>
+                <link>https://voidmori.xyz/%E6%88%91%E5%A6%82%E6%98%AF%E8%88%AC%E6%AD%BB%E5%8E%BB/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E6%88%91%E5%A6%82%E6%98%AF%E8%88%AC%E6%AD%BB%E5%8E%BB/</guid>
                 <pubDate>Thu, 25 Mar 2021 21:57:19 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1582,7 +1668,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -1597,7 +1683,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -1607,8 +1693,8 @@
         
             <item>
                 <title>03_24早晨</title>
-                <link>https://traumtanzer.xyz/03_24%E6%97%A9%E6%99%A8/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/03_24%E6%97%A9%E6%99%A8/</guid>
+                <link>https://voidmori.xyz/03_24%E6%97%A9%E6%99%A8/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/03_24%E6%97%A9%E6%99%A8/</guid>
                 <pubDate>Wed, 24 Mar 2021 10:23:55 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1639,7 +1725,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -1654,7 +1740,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+                                    <category domain="https://voidmori.xyz/tags/%E6%97%A5%E8%AE%B0/">日记</category>
                                 
                             
                         
@@ -1664,8 +1750,8 @@
         
             <item>
                 <title>03_23</title>
-                <link>https://traumtanzer.xyz/03_23/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/03_23/</guid>
+                <link>https://voidmori.xyz/03_23/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/03_23/</guid>
                 <pubDate>Tue, 23 Mar 2021 21:37:30 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1683,7 +1769,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -1698,7 +1784,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+                                    <category domain="https://voidmori.xyz/tags/%E6%97%A5%E8%AE%B0/">日记</category>
                                 
                             
                         
@@ -1708,8 +1794,8 @@
         
             <item>
                 <title>某种意义上</title>
-                <link>https://traumtanzer.xyz/%E6%9F%90%E7%A7%8D%E6%84%8F%E4%B9%89%E4%B8%8A/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E6%9F%90%E7%A7%8D%E6%84%8F%E4%B9%89%E4%B8%8A/</guid>
+                <link>https://voidmori.xyz/%E6%9F%90%E7%A7%8D%E6%84%8F%E4%B9%89%E4%B8%8A/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E6%9F%90%E7%A7%8D%E6%84%8F%E4%B9%89%E4%B8%8A/</guid>
                 <pubDate>Wed, 17 Mar 2021 11:21:00 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1727,7 +1813,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -1742,7 +1828,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -1752,8 +1838,8 @@
         
             <item>
                 <title>03_14碎笔</title>
-                <link>https://traumtanzer.xyz/03_14%E7%A2%8E%E7%AC%94/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/03_14%E7%A2%8E%E7%AC%94/</guid>
+                <link>https://voidmori.xyz/03_14%E7%A2%8E%E7%AC%94/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/03_14%E7%A2%8E%E7%AC%94/</guid>
                 <pubDate>Sun, 14 Mar 2021 23:07:17 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1799,7 +1885,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                <category domain="https://voidmori.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
                             
                         
                     
@@ -1807,7 +1893,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AF%BB%E4%B9%A6/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
+                                <category domain="https://voidmori.xyz/%E8%AF%BB%E4%B9%A6/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
                             
                         
                     
@@ -1822,7 +1908,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
                                 
                             
                         
@@ -1832,8 +1918,8 @@
         
             <item>
                 <title>赛博格宣言</title>
-                <link>https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/</guid>
+                <link>https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/</guid>
                 <pubDate>Sun, 14 Mar 2021 16:44:25 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -1843,103 +1929,103 @@
 &lt;p&gt;社会主义女性主义&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;唐娜·哈拉维&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;集成电路时代的女性拥有一套共同语言是一个讽刺的梦想。&lt;/p&gt;
-&lt;p&gt;本章致力于建立一种忠于女性主义、社会主义和唯物主义的讽刺性政治神话（myth）。相较于虔敬的崇拜与认同，这个任务作为亵渎对以上这些思潮更为忠诚。似乎亵渎总是要求我们严肃地对待事物。在美国政治的世俗宗教的、福音派的传统中（包括社会主义女性主义政治），我找不到更好的立场了。亵渎保护我们不受这些传统中的道德主流影响，同时也坚持对社群的需求。亵渎并不是叛变。讽刺涉及那些不能通过融合成更大整体——即便是辩证的融合——而解决的矛盾，也涉及把不相容的事物结合在一起的张力，因为这些事物都是既必要又正确的。讽刺也涉及幽默和严肃游戏（play）。它是一种修辞策略和政治手段，一种我希望在社会主义女性主义中能得到更多尊敬的策略。在我的讽刺性信念，或者说我的亵渎中占据中心地位的，是赛博格（cyborg） &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34;&gt;[1]&lt;/sup&gt;&lt;/a&gt;的形象。&lt;/p&gt;
+&lt;p&gt;本章致力于建立一种忠于女性主义、社会主义和唯物主义的讽刺性政治神话（myth）。相较于虔敬的崇拜与认同，这个任务作为亵渎对以上这些思潮更为忠诚。似乎亵渎总是要求我们严肃地对待事物。在美国政治的世俗宗教的、福音派的传统中（包括社会主义女性主义政治），我找不到更好的立场了。亵渎保护我们不受这些传统中的道德主流影响，同时也坚持对社群的需求。亵渎并不是叛变。讽刺涉及那些不能通过融合成更大整体——即便是辩证的融合——而解决的矛盾，也涉及把不相容的事物结合在一起的张力，因为这些事物都是既必要又正确的。讽刺也涉及幽默和严肃游戏（play）。它是一种修辞策略和政治手段，一种我希望在社会主义女性主义中能得到更多尊敬的策略。在我的讽刺性信念，或者说我的亵渎中占据中心地位的，是赛博格（cyborg） &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34;&gt;[1]&lt;/sup&gt;&lt;/a&gt;的形象。&lt;/p&gt;
 &lt;div id=&#34;ref1&#34; &gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup1&#34;&gt;Cyborg一词，由“cybernetics”（控制论）及“organism”（有机体）拼凑而成，意为半机械生物。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup1&#34;&gt;Cyborg一词，由“cybernetics”（控制论）及“organism”（有机体）拼凑而成，意为半机械生物。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;赛博格是一种控制论的有机体，是机械与有机体的混合物。它既是社会现实的产物，也是虚构小说（fiction）的产物。社会现实是活生生的（lived）社会关系，是我们最重要的政治建构，是一种改变世界的虚构。国际妇女运动已经建构出“女性的经验”，同时也揭露或者发现了这个关键的集体对象。这一经验是最关键、最具有政治性的虚构兼事实。解放运动依赖于构建一种对压迫、因此也是对可能性的意识，或者想象式的理解。赛博格事关能改变二十世纪晚期所谓的女性经验的虚构和活生生的（lived）经验。这是一场殊死搏斗，不过科幻小说和社会现实之间的界线只是视幻觉罢了。&lt;/p&gt;
-&lt;p&gt;当代科幻小说里满是赛博格。这种既是动物也是机械的生物，遍布了这些自然与人工模糊不清的世界。现代医药中也满是赛博格，满是机械与生物体的结合物。人们认为所有赛博格都是被编码的设备，它们关系紧密，还拥有一种并非产生于性史中的力量。赛博格的“性”恢复了蕨类植物和无脊椎动物的一些有趣的无规则繁殖方式（replicative baroque）（多么精妙的预防异性恋主义的生物性机制啊！） &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref2&#34;&gt;&lt;sup id=&#34;sup2&#34;&gt;[2]&lt;/sup&gt;&lt;/a&gt;。赛博格的复制是同生物繁衍分离的。现代生产看起来像是赛博格殖民工程之梦，它使得泰勒制（Taylorism） &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref3&#34;&gt;&lt;sup id=&#34;sup3&#34;&gt;[3]&lt;/sup&gt;&lt;/a&gt; 的梦魇相形见绌。而现代战争就是赛博格的狂欢，它是1984年美国一笔价值840亿美元的国防预算，编号C3I，即指令-控制-交流-智能（Command, Control, Communications and Intelligence） &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref4&#34;&gt;&lt;sup id=&#34;sup4&#34;&gt;[4]&lt;/sup&gt;&lt;/a&gt;。我要提出的论点是，赛博格是一种描绘（map）我们的社会现实与身体现实的虚构，同时也是一种想象资源，预示了成果颇丰的联系。对于赛博格政治这个非常开放的领域来说，米歇尔·福柯的生命政治 &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref5&#34;&gt;&lt;sup id=&#34;sup5&#34;&gt;[5]&lt;/sup&gt;&lt;/a&gt;是一种乏力的预兆。&lt;/p&gt;
+&lt;p&gt;当代科幻小说里满是赛博格。这种既是动物也是机械的生物，遍布了这些自然与人工模糊不清的世界。现代医药中也满是赛博格，满是机械与生物体的结合物。人们认为所有赛博格都是被编码的设备，它们关系紧密，还拥有一种并非产生于性史中的力量。赛博格的“性”恢复了蕨类植物和无脊椎动物的一些有趣的无规则繁殖方式（replicative baroque）（多么精妙的预防异性恋主义的生物性机制啊！） &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref2&#34;&gt;&lt;sup id=&#34;sup2&#34;&gt;[2]&lt;/sup&gt;&lt;/a&gt;。赛博格的复制是同生物繁衍分离的。现代生产看起来像是赛博格殖民工程之梦，它使得泰勒制（Taylorism） &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref3&#34;&gt;&lt;sup id=&#34;sup3&#34;&gt;[3]&lt;/sup&gt;&lt;/a&gt; 的梦魇相形见绌。而现代战争就是赛博格的狂欢，它是1984年美国一笔价值840亿美元的国防预算，编号C3I，即指令-控制-交流-智能（Command, Control, Communications and Intelligence） &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref4&#34;&gt;&lt;sup id=&#34;sup4&#34;&gt;[4]&lt;/sup&gt;&lt;/a&gt;。我要提出的论点是，赛博格是一种描绘（map）我们的社会现实与身体现实的虚构，同时也是一种想象资源，预示了成果颇丰的联系。对于赛博格政治这个非常开放的领域来说，米歇尔·福柯的生命政治 &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref5&#34;&gt;&lt;sup id=&#34;sup5&#34;&gt;[5]&lt;/sup&gt;&lt;/a&gt;是一种乏力的预兆。&lt;/p&gt;
 &lt;div id=&#34;ref2&#34; &gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup2&#34;&gt;蕨类植物通常依靠孢子进行繁殖，而某些无脊椎动物（例如水螅）可以依靠出芽进行繁殖，这两种生殖方式都与有性生殖不同。对于认定了有性生殖的思维范式而言，这的确是无规则（baroque）的。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup2&#34;&gt;蕨类植物通常依靠孢子进行繁殖，而某些无脊椎动物（例如水螅）可以依靠出芽进行繁殖，这两种生殖方式都与有性生殖不同。对于认定了有性生殖的思维范式而言，这的确是无规则（baroque）的。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref3&#34;&gt;
-&lt;p&gt;[3] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup3&#34;&gt;由美国人弗雷德里克·温思罗·泰勒（Frederick Winslow Taylor）提出的科学管理理论，借研究和重新设计工作流程来使生产效率最大化。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup3&#34;&gt;由美国人弗雷德里克·温思罗·泰勒（Frederick Winslow Taylor）提出的科学管理理论，借研究和重新设计工作流程来使生产效率最大化。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref4&#34; &gt;
-&lt;p&gt;[4] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup4&#34;&gt;C3I是美国军方提出的“命令和控制”（command and control或C2）军事组织模式的变型。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup4&#34;&gt;C3I是美国军方提出的“命令和控制”（command and control或C2）军事组织模式的变型。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref5&#34; &gt;
-&lt;p&gt;[5] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup5&#34;&gt;由米歇尔·福柯在法兰西公学讲座系列（1975-76年的《必须保卫社会》、1978-79年的《生命政治的诞生》和1984年的《真理的勇气》）中提出的权力理论。福柯认为现代国家权力扩张到了被统治者的生物性和身体领域，国家通过出生率、死亡率、生育率等指标统治着被看作一个整体的人民。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup5&#34;&gt;由米歇尔·福柯在法兰西公学讲座系列（1975-76年的《必须保卫社会》、1978-79年的《生命政治的诞生》和1984年的《真理的勇气》）中提出的权力理论。福柯认为现代国家权力扩张到了被统治者的生物性和身体领域，国家通过出生率、死亡率、生育率等指标统治着被看作一个整体的人民。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;身处二十世纪晚期——我们的时代，一个神话的时代，我们都是喀迈拉（chimeras）&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref6&#34;&gt;&lt;sup id=&#34;sup6&#34;&gt;[6]&lt;/sup&gt;&lt;/a&gt;，都是被理论化了的、被制造（fabricate）出来的机器与有机物的混合体。简而言之，我们都是赛博格。赛博格就是我们的本体（ontology），它把我们的政治给予我们。赛博格的形象浓缩了想象和物质现实，而这两个相联结的中心构造了历史变迁的可能性。在“西方”的科学和政治传统中，这种有机体和机器的关系一直都是边境战争（border war）（这些传统是种族主义、男性统治的资本主义的传统，是进步的传统，是将自然资源作为文化生产的资源来侵占（appropriation）的传统，是通过思考他者而对自我进行再生产的传统）。这场边境战争的争夺焦点（the stakes）在于生产、再生产和想象之间的边界。本章的论点是，人们不但应乐见边界的混淆，而且有责任去构造模糊的边界。本章同样致力为社会主义女性主义文化和理论做出贡献。本章采取一种后现代、非自然主义的模式，并根植于想象一种无性别世界的乌托邦传统。这个无性别的世界或许既没有创始（genesis）&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref7&#34;&gt;&lt;sup id=&#34;sup7&#34;&gt;[7]&lt;/sup&gt;&lt;/a&gt;，也没有终结。赛博格的化身（incarnation）在救世历史之外。它不需要等待口唇期的共生乌托邦（oral symbiotic utopia）或是后俄狄浦斯天启（post-oedipal apocalypse）&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref8&#34;&gt;&lt;sup id=&#34;sup8&#34;&gt;[8]&lt;/sup&gt;&lt;/a&gt; 的降临。左埃·索福利斯未出版的研究雅克·拉康、梅拉妮·克莱因以及核文化（nuclear culture）的手稿《拉克莱茵》（Lacklein）中有言，在赛博格世界中，最恐怖、或许也是最有前景的怪物就化身于非俄狄浦斯式的、蕴含了另一种压抑的逻辑的叙述中；我们需要理解这类叙述才能存活。&lt;/p&gt;
+&lt;p&gt;身处二十世纪晚期——我们的时代，一个神话的时代，我们都是喀迈拉（chimeras）&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref6&#34;&gt;&lt;sup id=&#34;sup6&#34;&gt;[6]&lt;/sup&gt;&lt;/a&gt;，都是被理论化了的、被制造（fabricate）出来的机器与有机物的混合体。简而言之，我们都是赛博格。赛博格就是我们的本体（ontology），它把我们的政治给予我们。赛博格的形象浓缩了想象和物质现实，而这两个相联结的中心构造了历史变迁的可能性。在“西方”的科学和政治传统中，这种有机体和机器的关系一直都是边境战争（border war）（这些传统是种族主义、男性统治的资本主义的传统，是进步的传统，是将自然资源作为文化生产的资源来侵占（appropriation）的传统，是通过思考他者而对自我进行再生产的传统）。这场边境战争的争夺焦点（the stakes）在于生产、再生产和想象之间的边界。本章的论点是，人们不但应乐见边界的混淆，而且有责任去构造模糊的边界。本章同样致力为社会主义女性主义文化和理论做出贡献。本章采取一种后现代、非自然主义的模式，并根植于想象一种无性别世界的乌托邦传统。这个无性别的世界或许既没有创始（genesis）&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref7&#34;&gt;&lt;sup id=&#34;sup7&#34;&gt;[7]&lt;/sup&gt;&lt;/a&gt;，也没有终结。赛博格的化身（incarnation）在救世历史之外。它不需要等待口唇期的共生乌托邦（oral symbiotic utopia）或是后俄狄浦斯天启（post-oedipal apocalypse）&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref8&#34;&gt;&lt;sup id=&#34;sup8&#34;&gt;[8]&lt;/sup&gt;&lt;/a&gt; 的降临。左埃·索福利斯未出版的研究雅克·拉康、梅拉妮·克莱因以及核文化（nuclear culture）的手稿《拉克莱茵》（Lacklein）中有言，在赛博格世界中，最恐怖、或许也是最有前景的怪物就化身于非俄狄浦斯式的、蕴含了另一种压抑的逻辑的叙述中；我们需要理解这类叙述才能存活。&lt;/p&gt;
 &lt;div id =&#34;ref6&#34; &gt;
-&lt;p&gt;[6] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup6&#34;&gt;喀迈拉，古希腊神话中狮头、羊身、蛇尾的吐火怪物。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup6&#34;&gt;喀迈拉，古希腊神话中狮头、羊身、蛇尾的吐火怪物。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref7&#34; &gt;
-&lt;p&gt;[7] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup7&#34;&gt;大写形式的“Genesis”是《圣经·旧约》中《创世纪》篇名。这里采用小写形式。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[7] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup7&#34;&gt;大写形式的“Genesis”是《圣经·旧约》中《创世纪》篇名。这里采用小写形式。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref8&#34; &gt;
-&lt;p&gt;[8] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup8&#34;&gt;大写形式的“Apocalypse”是《圣经·新约》中《启示录》一章篇名。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[8] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup8&#34;&gt;大写形式的“Apocalypse”是《圣经·新约》中《启示录》一章篇名。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;赛博格是存在于后性别世界的生物。它与双性特征（bisexuality）、前俄狄浦斯时期的共生关系以及非异化的劳动都无关，也无关乎将部分的力量最终侵吞（appropriation）到一个更高的整体中的诱惑。在某种意义上说，赛博格并没有西方意义上的起源故事——一个“终极”的讽刺，因为“西方”愈演愈烈地主宰了抽象的个体化（abstract individuation），这最终断绝了对其他事物之依赖的终极自我、太空中的人；而赛博格也正是这一主宰的天启般可畏的终极目的（telos）。“西方”人本主义意义上的起源故事依赖于神话，关于原初统一（cosmos）、完满、极乐和恐惧的神话。这样的神话由带阳具的母亲（phallic mother）表征，而人类必须从她身上分离；也体现在个人发展的和历史的任务上，体现在那对由精神分析和马克思主义为我们强力铭刻的有力的孪生神话 &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref9&#34;&gt;&lt;sup id=&#34;sup9&#34;&gt;[9]&lt;/sup&gt;&lt;/a&gt; 上。希拉里·克莱因（1989）曾论述道，在劳动、个体化和性别形成的概念上，马克思主义和精神分析都依赖于原初统一的情节；在愈演愈烈地主宰女性/自然的戏剧中，差别和对差别的需求必定会从原初统一情节中产生出来。赛博格跳过了西方意义上的原初统一，跳过了与自然认同的步骤。这一非法的允诺或许会像星球大战那样颠覆自己的目的论 &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref10&#34;&gt;&lt;sup id=&#34;sup10&#34;&gt;[10]&lt;/sup&gt;&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;赛博格是存在于后性别世界的生物。它与双性特征（bisexuality）、前俄狄浦斯时期的共生关系以及非异化的劳动都无关，也无关乎将部分的力量最终侵吞（appropriation）到一个更高的整体中的诱惑。在某种意义上说，赛博格并没有西方意义上的起源故事——一个“终极”的讽刺，因为“西方”愈演愈烈地主宰了抽象的个体化（abstract individuation），这最终断绝了对其他事物之依赖的终极自我、太空中的人；而赛博格也正是这一主宰的天启般可畏的终极目的（telos）。“西方”人本主义意义上的起源故事依赖于神话，关于原初统一（cosmos）、完满、极乐和恐惧的神话。这样的神话由带阳具的母亲（phallic mother）表征，而人类必须从她身上分离；也体现在个人发展的和历史的任务上，体现在那对由精神分析和马克思主义为我们强力铭刻的有力的孪生神话 &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref9&#34;&gt;&lt;sup id=&#34;sup9&#34;&gt;[9]&lt;/sup&gt;&lt;/a&gt; 上。希拉里·克莱因（1989）曾论述道，在劳动、个体化和性别形成的概念上，马克思主义和精神分析都依赖于原初统一的情节；在愈演愈烈地主宰女性/自然的戏剧中，差别和对差别的需求必定会从原初统一情节中产生出来。赛博格跳过了西方意义上的原初统一，跳过了与自然认同的步骤。这一非法的允诺或许会像星球大战那样颠覆自己的目的论 &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref10&#34;&gt;&lt;sup id=&#34;sup10&#34;&gt;[10]&lt;/sup&gt;&lt;/a&gt;。&lt;/p&gt;
 &lt;div id=&#34;ref9&#34; &gt;
-&lt;p&gt;[9] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup9&#34;&gt;似指伊甸园（原初统一）-失乐园（异化）-复乐园（本性复归）的观念公式。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[9] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup9&#34;&gt;似指伊甸园（原初统一）-失乐园（异化）-复乐园（本性复归）的观念公式。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref10&#34;&gt;
-&lt;p&gt;[10] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup10&#34;&gt;指“星球大战计划”，是美国在1980年代实行的一项冷战的军事战略。这一计划旨在建立太空反导弹系统来平衡苏联日益增长的核攻击力量，以保证美国战略核力量的生存能力和可靠的威胁能力。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[10] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup10&#34;&gt;指“星球大战计划”，是美国在1980年代实行的一项冷战的军事战略。这一计划旨在建立太空反导弹系统来平衡苏联日益增长的核攻击力量，以保证美国战略核力量的生存能力和可靠的威胁能力。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;赛博格坚定地忠实于不完满性（partiality）、反讽、亲密性和错乱。它是对立性的、乌托邦式的，而且完全没有纯洁可言。赛博格不再由公共和私人间的两极对立所塑造，它定义了一个技术城邦（polis），而这个城邦则部分奠基于家庭（oikos）中的社会关系革命。自然和文化被重构了，前者不再是供后者侵占或吸收的资源。那些用部分构成整体的关系，包括两极对立和等级制统治，在赛博格世界中都成了问题。不同于弗兰肯斯坦的怪物，赛博格并不期待它的父亲/创造者（father）通过重建乐园——即是说，通过制造一个异性伴侣，通过在已完工的整体、城市和和谐整体（cosmos）中达到其完满——来拯救它。赛博格并不梦想一个以有机家庭——没有俄狄浦斯计划 &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref11&#34;&gt;&lt;sup id=&#34;sup11&#34;&gt;[11]&lt;/sup&gt;&lt;/a&gt; 的有机家庭——为模型的社群。赛博格不会承认伊甸园的存在；它并不是由泥土造的，不能梦想回归尘土。&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#refC1&#34;&gt;&lt;sup id=&#34;supC1&#34;&gt;[C1]&lt;/sup&gt;&lt;/a&gt; 或许正是因此，我才想看看赛博格能否颠覆在指认敌人（Enemy）&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref12&#34;&gt;&lt;sup id=&#34;sup12&#34;&gt;[12]&lt;/sup&gt;&lt;/a&gt; 的狂暴冲动中回归放射性尘土的天启。赛博格并不虔敬，它们并不记得原初统一（cosmos）。它们警惕整体论，但却需要联结——它们似乎天生就对没有先锋党的统一战线政治有亲近感。当然，赛博格的最大问题是，它们是军国主义、父权制资本主义的非法后代，更不用说国家社会主义了。但是非法后代往往对它们的起源极其不忠，毕竟父亲/创造者对它们来说是无关紧要的。&lt;/p&gt;
+&lt;p&gt;赛博格坚定地忠实于不完满性（partiality）、反讽、亲密性和错乱。它是对立性的、乌托邦式的，而且完全没有纯洁可言。赛博格不再由公共和私人间的两极对立所塑造，它定义了一个技术城邦（polis），而这个城邦则部分奠基于家庭（oikos）中的社会关系革命。自然和文化被重构了，前者不再是供后者侵占或吸收的资源。那些用部分构成整体的关系，包括两极对立和等级制统治，在赛博格世界中都成了问题。不同于弗兰肯斯坦的怪物，赛博格并不期待它的父亲/创造者（father）通过重建乐园——即是说，通过制造一个异性伴侣，通过在已完工的整体、城市和和谐整体（cosmos）中达到其完满——来拯救它。赛博格并不梦想一个以有机家庭——没有俄狄浦斯计划 &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref11&#34;&gt;&lt;sup id=&#34;sup11&#34;&gt;[11]&lt;/sup&gt;&lt;/a&gt; 的有机家庭——为模型的社群。赛博格不会承认伊甸园的存在；它并不是由泥土造的，不能梦想回归尘土。&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#refC1&#34;&gt;&lt;sup id=&#34;supC1&#34;&gt;[C1]&lt;/sup&gt;&lt;/a&gt; 或许正是因此，我才想看看赛博格能否颠覆在指认敌人（Enemy）&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref12&#34;&gt;&lt;sup id=&#34;sup12&#34;&gt;[12]&lt;/sup&gt;&lt;/a&gt; 的狂暴冲动中回归放射性尘土的天启。赛博格并不虔敬，它们并不记得原初统一（cosmos）。它们警惕整体论，但却需要联结——它们似乎天生就对没有先锋党的统一战线政治有亲近感。当然，赛博格的最大问题是，它们是军国主义、父权制资本主义的非法后代，更不用说国家社会主义了。但是非法后代往往对它们的起源极其不忠，毕竟父亲/创造者对它们来说是无关紧要的。&lt;/p&gt;
 &lt;div id=&#34;ref11&#34;&gt;
-&lt;p&gt;[11] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup11&#34;&gt;指俄狄浦斯情结中孩子反抗父亲、控制母亲、自己替代父亲地位的计划。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[11] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup11&#34;&gt;指俄狄浦斯情结中孩子反抗父亲、控制母亲、自己替代父亲地位的计划。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref12&#34;&gt;
-&lt;p&gt;[12] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup12&#34;&gt;大写形式Enemy或特指冷战另一方，即苏联。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[12] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup12&#34;&gt;大写形式Enemy或特指冷战另一方，即苏联。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;refC1&#34; &gt;
-&lt;p&gt;[C1] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#supC1&#34;&gt;“尘归尘，土归土”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[C1] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#supC1&#34;&gt;“尘归尘，土归土”&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;我想指出三个重要边界的崩塌。正是因此，下文的政治-虚构（政治-科学）分析才成为可能。在二十世纪晚期美国的科技文化中，人与动物之间的边界已经被彻底破坏了。（人类——译者加）独特性最后的那些滩头堡——语言、工具使用、社会行为、心理活动——不是被污染就是被改造成了主题乐园，确实没什么能令人信服地把人与动物间的分隔确定下来。很多人都认为并没有必要继续维持这个区分；实际上，女性主义文化的很多分支确实都确认了把人类和其他生物联系起来的快感。动物权利运动并非不理智地否定人类的独特性，而是明智地承认被不足为信的断裂分割开的自然与文化之间的联系。过去两个世纪的生物学和演化论同时都将有机体生产为知识的对象，并且把人类和动物之间的界限减弱为一条淡淡的痕迹，而这刻痕在意识形态斗争以及生命科学和社会科学间的专业争议中又再次浮现了。在这个框架下，给现代基督教徒教授创世论（creationism）&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref13&#34;&gt;&lt;sup id=&#34;sup13&#34;&gt;[13]&lt;/sup&gt;&lt;/a&gt;应被当做虐童来加以反对。&lt;/p&gt;
+&lt;p&gt;我想指出三个重要边界的崩塌。正是因此，下文的政治-虚构（政治-科学）分析才成为可能。在二十世纪晚期美国的科技文化中，人与动物之间的边界已经被彻底破坏了。（人类——译者加）独特性最后的那些滩头堡——语言、工具使用、社会行为、心理活动——不是被污染就是被改造成了主题乐园，确实没什么能令人信服地把人与动物间的分隔确定下来。很多人都认为并没有必要继续维持这个区分；实际上，女性主义文化的很多分支确实都确认了把人类和其他生物联系起来的快感。动物权利运动并非不理智地否定人类的独特性，而是明智地承认被不足为信的断裂分割开的自然与文化之间的联系。过去两个世纪的生物学和演化论同时都将有机体生产为知识的对象，并且把人类和动物之间的界限减弱为一条淡淡的痕迹，而这刻痕在意识形态斗争以及生命科学和社会科学间的专业争议中又再次浮现了。在这个框架下，给现代基督教徒教授创世论（creationism）&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref13&#34;&gt;&lt;sup id=&#34;sup13&#34;&gt;[13]&lt;/sup&gt;&lt;/a&gt;应被当做虐童来加以反对。&lt;/p&gt;
 &lt;div ref=&#34;13&#34;&gt;
-&lt;p&gt;[13] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup13&#34;&gt;一种基督教信仰，认为世界万物是由上帝创造的，如同《圣经》描绘的那样。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[13] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup13&#34;&gt;一种基督教信仰，认为世界万物是由上帝创造的，如同《圣经》描绘的那样。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;在科学文化中，生物决定论的意识形态不过是论证人类动物性之意义的立场之一。对于政治激进分子来说，这其中还有相当的空间来质疑这些被破坏的边界的意义&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link1&#34;&gt;&lt;sup id=&#34;mk1&#34;&gt;【1】&lt;/sup&gt;&lt;/a&gt;。正是在跨越人和动物的界限之时，赛博格才会出现在神话中。赛博格决不标示人类与其他生物的分隔，而是既令人不安又令人欣喜地标示着两者的紧密结合（tight coupling）。兽性在这一轮婚姻交换中获得了新的位置。&lt;/p&gt;
+&lt;p&gt;在科学文化中，生物决定论的意识形态不过是论证人类动物性之意义的立场之一。对于政治激进分子来说，这其中还有相当的空间来质疑这些被破坏的边界的意义&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link1&#34;&gt;&lt;sup id=&#34;mk1&#34;&gt;【1】&lt;/sup&gt;&lt;/a&gt;。正是在跨越人和动物的界限之时，赛博格才会出现在神话中。赛博格决不标示人类与其他生物的分隔，而是既令人不安又令人欣喜地标示着两者的紧密结合（tight coupling）。兽性在这一轮婚姻交换中获得了新的位置。&lt;/p&gt;
 &lt;div id=&#34;link1&#34;&gt;
-&lt;p&gt;【1】&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk1&#34;&gt;以下是左翼和/或女性主义激进科学运动和理论方面，以及生物/生物技术议题方面的一些有用参考：Bleier（1984，1986）、Fausto-Sterling（1985）、Gould（1981）、Harding（1986）、Hubbard等（1982）、Keller（1985）、Lewontin等（1984）、Radical Science杂志（1987年更名为Science as Culture；地址：26 Freegrove Road，London N7 9RQ）、Sciencefor the People（地址：897 Main St，Cambridge，MA 02139）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【1】&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk1&#34;&gt;以下是左翼和/或女性主义激进科学运动和理论方面，以及生物/生物技术议题方面的一些有用参考：Bleier（1984，1986）、Fausto-Sterling（1985）、Gould（1981）、Harding（1986）、Hubbard等（1982）、Keller（1985）、Lewontin等（1984）、Radical Science杂志（1987年更名为Science as Culture；地址：26 Freegrove Road，London N7 9RQ）、Sciencefor the People（地址：897 Main St，Cambridge，MA 02139）&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;第二个开裂的是动物-人类（有机体）和机械之间的区分。人们总是疑心前控制论的机械中有幽灵出没，这种预感萦绕不散。有机体-机械的二元论塑造了唯物论和理念论之间的对话，它被辩证法的某种衍生物所定调，这个衍生物根据品味或被称为精神，或被称为历史。但是从根本上说，当时的机器无法自我驱动、自我设计，也不是自治的。它们只能嘲弄，而非实现人的理想。它们并不是人，不是自身的创造者，而只是那个男权主义生育之梦的讽刺画（caricature）。曾经只有偏执狂才不会这么想，但现在我们却不那么肯定了。二十世纪晚期的机器已经彻底模糊了自然与人工之间的区分，模糊了心灵与身体之间的区分，模糊了自我开发与外部设计以及其他许多曾适用于有机体和机械的区分。我们的机器生动得让人不安，我们自己死气沉沉得让人恐惧。&lt;/p&gt;
-&lt;p&gt;我们通过把机械和有机体重新构想为编码的文本，而参与到书写和阅读世界的游戏中。技术决定论只是这种重新构想所开启的一个意识形态空间而已&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link2&#34;&gt;&lt;sup id=&#34;mk2&#34;&gt;【2】&lt;/sup&gt;&lt;/a&gt;。后结构主义和后现代策略对一切事物的“文本化（textualization）” 已经遭到了马克思主义者和社会主义女性主义者的痛斥，因为它乌托邦式地忽略了任意解读的“游戏”的基础：活生生的统治关系&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link3&#34;&gt;&lt;sup id=&#34;mk3&#34;&gt;【3】&lt;/sup&gt;&lt;/a&gt;。后现代策略确实摧毁了大量有机整体（例如诗歌、原始文化和生物有机体），如我所述的赛博格神话。简而言之，对什么才算是自然的确信——它是洞见的源头，是对纯洁的允诺——或许已经被极大地削弱了。先验的阐释授权不复存在，随之而去的是奠定“西方”认识论基础的本体论。然而它的替代方案并非是犬儒主义或毫无信仰，因为这两者都是某种版本的抽离（abstract）的存在，就像对技术决定论的解释用“机器”摧毁了“人”或者用“文本”摧毁了“有意义的政治行动”。赛博格未来的身份是什么（who）？这是一个根本性的问题，问题的答案事关我们的生存。既然黑猩猩和人工制品都有各自的政治，为什么我们不能也有自己的政治？（de Waal，1982；Winner，1980）。&lt;/p&gt;
+&lt;p&gt;我们通过把机械和有机体重新构想为编码的文本，而参与到书写和阅读世界的游戏中。技术决定论只是这种重新构想所开启的一个意识形态空间而已&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link2&#34;&gt;&lt;sup id=&#34;mk2&#34;&gt;【2】&lt;/sup&gt;&lt;/a&gt;。后结构主义和后现代策略对一切事物的“文本化（textualization）” 已经遭到了马克思主义者和社会主义女性主义者的痛斥，因为它乌托邦式地忽略了任意解读的“游戏”的基础：活生生的统治关系&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link3&#34;&gt;&lt;sup id=&#34;mk3&#34;&gt;【3】&lt;/sup&gt;&lt;/a&gt;。后现代策略确实摧毁了大量有机整体（例如诗歌、原始文化和生物有机体），如我所述的赛博格神话。简而言之，对什么才算是自然的确信——它是洞见的源头，是对纯洁的允诺——或许已经被极大地削弱了。先验的阐释授权不复存在，随之而去的是奠定“西方”认识论基础的本体论。然而它的替代方案并非是犬儒主义或毫无信仰，因为这两者都是某种版本的抽离（abstract）的存在，就像对技术决定论的解释用“机器”摧毁了“人”或者用“文本”摧毁了“有意义的政治行动”。赛博格未来的身份是什么（who）？这是一个根本性的问题，问题的答案事关我们的生存。既然黑猩猩和人工制品都有各自的政治，为什么我们不能也有自己的政治？（de Waal，1982；Winner，1980）。&lt;/p&gt;
 &lt;div id=&#34;link2&#34;&gt;
-&lt;p&gt;【2】&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk2&#34;&gt;要初步了解技术和政治的左翼和/或女性主义进路，可以参考：Athanasiou（1987）、Cohn（1987a，b）、Cowan（1983）、Edwards（1985）、Rothschild（1983）、Traweek（1988）、Weizenbaum（1976）、Winner（1977，1986）、Winograd和Flores（1986）、Young和Levidow（1981，1985）、Zimmerman（1983）；杂志有Global Electronics Newsletter（地址：867 WestDana St，no.204，Mountain View，CA 94041）以及Processed World（地址：55 Sutter St，SanFrancisco，CA 94104）。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【2】&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk2&#34;&gt;要初步了解技术和政治的左翼和/或女性主义进路，可以参考：Athanasiou（1987）、Cohn（1987a，b）、Cowan（1983）、Edwards（1985）、Rothschild（1983）、Traweek（1988）、Weizenbaum（1976）、Winner（1977，1986）、Winograd和Flores（1986）、Young和Levidow（1981，1985）、Zimmerman（1983）；杂志有Global Electronics Newsletter（地址：867 WestDana St，no.204，Mountain View，CA 94041）以及Processed World（地址：55 Sutter St，SanFrancisco，CA 94104）。&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;link3&#34; &gt;
-&lt;p&gt;【3】&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk3&#34;&gt;弗雷德里克·詹明信（1984）对“后现代主义”政治和理论的观点全面又有争议性。他认为后现代主义并不是一个选项抑或众风格中的一种，而是要求对左翼政治进行内部革新的一种文化主导因素，而外界已经无法为批判距离——这个令人慰藉的虚构——赋予意义了。詹明信还阐明了我们为什么无法对后现代主义采取任何或正或反的道德说教立场。我本人的立场，是女性主义者（以及其他人）需要持续的文化革新、后现代主义批判和历史唯物主义，而只有赛博格才有机会满足这些需求。曾经的白人资本主义父权制的统治，现在在怀旧的目光下显得很清白，但它其实是把例如男女、黑白人种之间的异质性正常化了。“发达资本主义”和后现代主义释放了缺失规范的异质性，我们于是被扁平化，丧失了主体性，而主体性正是需要深度的，即使这深度是不友好的、能将我们淹没的深渊。是时候书写《门诊之死》了。曾经的门诊方法必须应用于身体和劳作，而我们现在有文本和表面。我们的统治不再依赖医疗化（medicalization）和正常化，而是依赖网络化、沟通方式再设计以及压力管理。正常化让位给了自动化，即彻底的冗余（utter redundancy）。福柯的《临床医学的诞生》（1963）、《性史》（1976）和《规训与惩罚》（1975）指出了一种正处与内爆时刻的权力形式。生命政治的话语让位于技术呓语（technobabble），即一种粘合名词（spliced substantive）的语言。没有任何名词在跨国公司手下还能保持完整，单从《科学》杂志的一期中就可以挑出如下跨国公司名字：Tech-Knowledge、Genentech、Allergen、Hybritech、Compupro、Genen-cor、Syntex、Allelix、Agrigenetics Corp.、Syntro、Codon、Repligen、MicroAngelo from Scion Corp.、Pencom Data、Inter Systems、Cyborg Corp.、Statcom Corp.、Intertec。如果我们被语言囚禁了，就得靠语言诗人——一种文化限制性内切酶（restriction enzyme）——来剪裁编码才能逃脱；赛博格的众声喧哗（heteroglossia）是激进文化政治的一种形式。赛博格诗学详见Perloff（1984）、Fraser（1984）。女性主义现代主义/后现代主义“赛博格”写作详见HOW(ever)杂志（地址：871 Corbett Ave，San Francisco，CA 94131）。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【3】&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk3&#34;&gt;弗雷德里克·詹明信（1984）对“后现代主义”政治和理论的观点全面又有争议性。他认为后现代主义并不是一个选项抑或众风格中的一种，而是要求对左翼政治进行内部革新的一种文化主导因素，而外界已经无法为批判距离——这个令人慰藉的虚构——赋予意义了。詹明信还阐明了我们为什么无法对后现代主义采取任何或正或反的道德说教立场。我本人的立场，是女性主义者（以及其他人）需要持续的文化革新、后现代主义批判和历史唯物主义，而只有赛博格才有机会满足这些需求。曾经的白人资本主义父权制的统治，现在在怀旧的目光下显得很清白，但它其实是把例如男女、黑白人种之间的异质性正常化了。“发达资本主义”和后现代主义释放了缺失规范的异质性，我们于是被扁平化，丧失了主体性，而主体性正是需要深度的，即使这深度是不友好的、能将我们淹没的深渊。是时候书写《门诊之死》了。曾经的门诊方法必须应用于身体和劳作，而我们现在有文本和表面。我们的统治不再依赖医疗化（medicalization）和正常化，而是依赖网络化、沟通方式再设计以及压力管理。正常化让位给了自动化，即彻底的冗余（utter redundancy）。福柯的《临床医学的诞生》（1963）、《性史》（1976）和《规训与惩罚》（1975）指出了一种正处与内爆时刻的权力形式。生命政治的话语让位于技术呓语（technobabble），即一种粘合名词（spliced substantive）的语言。没有任何名词在跨国公司手下还能保持完整，单从《科学》杂志的一期中就可以挑出如下跨国公司名字：Tech-Knowledge、Genentech、Allergen、Hybritech、Compupro、Genen-cor、Syntex、Allelix、Agrigenetics Corp.、Syntro、Codon、Repligen、MicroAngelo from Scion Corp.、Pencom Data、Inter Systems、Cyborg Corp.、Statcom Corp.、Intertec。如果我们被语言囚禁了，就得靠语言诗人——一种文化限制性内切酶（restriction enzyme）——来剪裁编码才能逃脱；赛博格的众声喧哗（heteroglossia）是激进文化政治的一种形式。赛博格诗学详见Perloff（1984）、Fraser（1984）。女性主义现代主义/后现代主义“赛博格”写作详见HOW(ever)杂志（地址：871 Corbett Ave，San Francisco，CA 94131）。&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;第三个区分是上一个的子集：对我们来说，在身体与非身体（physical and non-physical）之间划界是非常不精确的。关于量子理论的推论以及测不准原理的大众物理读物，是一种像禾林言情小说（Harlequin romances）&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref14&#34;&gt;&lt;sup id=&#34;sup14&#34;&gt;[14]&lt;/sup&gt;&lt;/a&gt;一般流行的科普读物，它们都标示着美国白人异性恋特质经历的深刻变化：它们的说法虽然错了，却抓住了正确的主题。现代机器本质上是微电子设备，它们无处不在而又不可见。现代机械是不虔敬的神中新贵，它嘲弄地模仿生父/创造者的普遍性和精神性。硅质芯片是可供书写的表面，上面的刻痕是分子尺度的，只有原子级别的杂音——核子乐谱的终极干涉（the ultimate interference for nuclear scores）——才能将其扰乱&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref15&#34;&gt;&lt;sup id=&#34;sup15&#34;&gt;[15]&lt;/sup&gt;&lt;/a&gt;。书写、权力和技术是西方的文明起源故事中的老搭档，但是微型化却改变了我们对机械&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#refC2&#34;&gt;&lt;sup id=&#34;supC2&#34;&gt;[C2]&lt;/sup&gt;&lt;/a&gt;的经验。微型化最终被证明是与权力相关的。微小与其说美，不如说是极度的危险，巡航导弹即是一例。对比一下二十世纪五十年代的电视机或七十年代的新闻摄像机，和目前出现在广告宣传中的电视腕带或者掌上摄像机。我们最好的机械都产自阳光带&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref16&#34;&gt;&lt;sup id=&#34;sup16&#34;&gt;[16]&lt;/sup&gt;&lt;/a&gt;，它们轻巧、洁净，因为它们无非是信号、电磁波或光谱的一截。这些机械尤其便携而多变，这一点事关底特律和新加坡的人们体会到的巨大痛苦。人们不可能接近如此流动不居、既实在又模糊的状态。赛博格是以太，是精髓。&lt;/p&gt;
+&lt;p&gt;第三个区分是上一个的子集：对我们来说，在身体与非身体（physical and non-physical）之间划界是非常不精确的。关于量子理论的推论以及测不准原理的大众物理读物，是一种像禾林言情小说（Harlequin romances）&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref14&#34;&gt;&lt;sup id=&#34;sup14&#34;&gt;[14]&lt;/sup&gt;&lt;/a&gt;一般流行的科普读物，它们都标示着美国白人异性恋特质经历的深刻变化：它们的说法虽然错了，却抓住了正确的主题。现代机器本质上是微电子设备，它们无处不在而又不可见。现代机械是不虔敬的神中新贵，它嘲弄地模仿生父/创造者的普遍性和精神性。硅质芯片是可供书写的表面，上面的刻痕是分子尺度的，只有原子级别的杂音——核子乐谱的终极干涉（the ultimate interference for nuclear scores）——才能将其扰乱&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref15&#34;&gt;&lt;sup id=&#34;sup15&#34;&gt;[15]&lt;/sup&gt;&lt;/a&gt;。书写、权力和技术是西方的文明起源故事中的老搭档，但是微型化却改变了我们对机械&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#refC2&#34;&gt;&lt;sup id=&#34;supC2&#34;&gt;[C2]&lt;/sup&gt;&lt;/a&gt;的经验。微型化最终被证明是与权力相关的。微小与其说美，不如说是极度的危险，巡航导弹即是一例。对比一下二十世纪五十年代的电视机或七十年代的新闻摄像机，和目前出现在广告宣传中的电视腕带或者掌上摄像机。我们最好的机械都产自阳光带&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref16&#34;&gt;&lt;sup id=&#34;sup16&#34;&gt;[16]&lt;/sup&gt;&lt;/a&gt;，它们轻巧、洁净，因为它们无非是信号、电磁波或光谱的一截。这些机械尤其便携而多变，这一点事关底特律和新加坡的人们体会到的巨大痛苦。人们不可能接近如此流动不居、既实在又模糊的状态。赛博格是以太，是精髓。&lt;/p&gt;
 &lt;div id=&#34;ref14&#34;&gt;
-&lt;p&gt;[14] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup14&#34;&gt;禾林出版有限公司（Harlequin Enterprises Limited）出版的罗曼史爱情小说在全球出版量最大。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[14] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup14&#34;&gt;禾林出版有限公司（Harlequin Enterprises Limited）出版的罗曼史爱情小说在全球出版量最大。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref15&#34;&gt;
-&lt;p&gt;[15] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup15&#34;&gt;本意是原子的不确定性会扰乱分子尺度上的书写痕迹。作者在这里用了相互照应的两个隐喻，一个是书写，另一个是乐章-噪音，其中“书写”和“乐章”譬喻分子尺度上的痕迹，而“原子噪音”譬喻扰乱分子尺度痕迹的原子不确定性。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[15] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup15&#34;&gt;本意是原子的不确定性会扰乱分子尺度上的书写痕迹。作者在这里用了相互照应的两个隐喻，一个是书写，另一个是乐章-噪音，其中“书写”和“乐章”譬喻分子尺度上的痕迹，而“原子噪音”譬喻扰乱分子尺度痕迹的原子不确定性。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref16&#34;&gt;
-&lt;p&gt;[16] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup16&#34;&gt;指横贯美国北纬36°以南地区的广袤带状区域，这片地区以冬季气候温和、阳光常年晴好以及经济增长迅速而闻名。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[16] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup16&#34;&gt;指横贯美国北纬36°以南地区的广袤带状区域，这片地区以冬季气候温和、阳光常年晴好以及经济增长迅速而闻名。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;refC2&#34;&gt;
  [C2] [Mechanism的意义似为力学。](#supC2)
 &lt;/div&gt;
-&lt;p&gt;赛博格无所不在又隐而不见，而这正是这些太阳带出产的机器如此致命的原因。它们的政治存在就如同它们的物质形态一样不可见。它们涉及到意识，或者对意识的拟象&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref17&#34;&gt;&lt;sup id=&#34;sup17&#34;&gt;[17]&lt;/sup&gt;&lt;/a&gt; &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link4&#34;&gt;&lt;sup id=&#34;mk4&#34;&gt;【4】&lt;/sup&gt;&lt;/a&gt;。它们是乘着皮卡横跨欧洲的浮动能指，要阻塞它们，脱位而不自然的格林翰妇女像女巫一样用身体编成的织物&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref18&#34;&gt;&lt;sup id=&#34;sup18&#34;&gt;[18]&lt;/sup&gt;&lt;/a&gt;比更老式的男权主义政治的军事劳力更有效果，因为前者对赛博格的权力网络解读得十分透彻，而后者的天然选民则需要国防岗位。根本上“最硬”的科学&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref19&#34;&gt;&lt;sup id=&#34;sup17&#34;&gt;[19]&lt;/sup&gt;&lt;/a&gt;涉及的是边界最为混淆的领域，例如纯粹数字领域、纯粹精神、C3I、密码学，还有对强有力的秘密的守护（preservation of potentsecrets）。新机械多么地清洁而轻便。它们的工程师都是太阳的崇拜者，协调着与后工业社会的夜梦相联系的新科学革命。这些洁净的机械所引发的疾病“不过”就是免疫系统中抗原编码的微调，“不过”就是体验到了压力。强加给女性的对小事物的关注——从“东方”妇女纤巧的手指，到英国维多利亚时期小女孩对娃娃之家的旧式迷恋——在这个世界中获得了一个相当新的维度。或许会有一个赛博格爱丽丝&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref20&#34;&gt;&lt;sup id=&#34;sup20&#34;&gt;[20]&lt;/sup&gt;&lt;/a&gt;来解释这些新维度。讽刺的是，或许正是在亚洲生产芯片和在圣丽塔监狱里旋舞&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link5&#34;&gt;&lt;sup id=&#34;mk5&#34;&gt;【5】&lt;/sup&gt;&lt;/a&gt;的不自然的赛博格女性所建立的联合体，才会为有效的反抗策略提供指导。&lt;/p&gt;
+&lt;p&gt;赛博格无所不在又隐而不见，而这正是这些太阳带出产的机器如此致命的原因。它们的政治存在就如同它们的物质形态一样不可见。它们涉及到意识，或者对意识的拟象&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref17&#34;&gt;&lt;sup id=&#34;sup17&#34;&gt;[17]&lt;/sup&gt;&lt;/a&gt; &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link4&#34;&gt;&lt;sup id=&#34;mk4&#34;&gt;【4】&lt;/sup&gt;&lt;/a&gt;。它们是乘着皮卡横跨欧洲的浮动能指，要阻塞它们，脱位而不自然的格林翰妇女像女巫一样用身体编成的织物&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref18&#34;&gt;&lt;sup id=&#34;sup18&#34;&gt;[18]&lt;/sup&gt;&lt;/a&gt;比更老式的男权主义政治的军事劳力更有效果，因为前者对赛博格的权力网络解读得十分透彻，而后者的天然选民则需要国防岗位。根本上“最硬”的科学&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref19&#34;&gt;&lt;sup id=&#34;sup17&#34;&gt;[19]&lt;/sup&gt;&lt;/a&gt;涉及的是边界最为混淆的领域，例如纯粹数字领域、纯粹精神、C3I、密码学，还有对强有力的秘密的守护（preservation of potentsecrets）。新机械多么地清洁而轻便。它们的工程师都是太阳的崇拜者，协调着与后工业社会的夜梦相联系的新科学革命。这些洁净的机械所引发的疾病“不过”就是免疫系统中抗原编码的微调，“不过”就是体验到了压力。强加给女性的对小事物的关注——从“东方”妇女纤巧的手指，到英国维多利亚时期小女孩对娃娃之家的旧式迷恋——在这个世界中获得了一个相当新的维度。或许会有一个赛博格爱丽丝&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#ref20&#34;&gt;&lt;sup id=&#34;sup20&#34;&gt;[20]&lt;/sup&gt;&lt;/a&gt;来解释这些新维度。讽刺的是，或许正是在亚洲生产芯片和在圣丽塔监狱里旋舞&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link5&#34;&gt;&lt;sup id=&#34;mk5&#34;&gt;【5】&lt;/sup&gt;&lt;/a&gt;的不自然的赛博格女性所建立的联合体，才会为有效的反抗策略提供指导。&lt;/p&gt;
 &lt;div id=&#34;link4&#34;&gt;
-&lt;p&gt;【4】&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk4&#34;&gt;鲍德里亚（1983）。詹明信（1984：66）指出，柏拉图所定义的幻影（simulacrum）是没有原件的副本，即发达资本主义或者纯粹交换的世界。Discourse 9杂志发行过一份技术特刊（涉及控制论、生态学和后现代想象），详见Discourse9（春/夏 1987）。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【4】&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk4&#34;&gt;鲍德里亚（1983）。詹明信（1984：66）指出，柏拉图所定义的幻影（simulacrum）是没有原件的副本，即发达资本主义或者纯粹交换的世界。Discourse 9杂志发行过一份技术特刊（涉及控制论、生态学和后现代想象），详见Discourse9（春/夏 1987）。&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;link5&#34;&gt;
-&lt;p&gt;【5】&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk5&#34;&gt;这是一种既有精神性又有政治性的实践，在1980年代早期把加利福尼亚阿拉美达监狱的守卫和被捕的反核示威者联结在了一起。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【5】&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk5&#34;&gt;这是一种既有精神性又有政治性的实践，在1980年代早期把加利福尼亚阿拉美达监狱的守卫和被捕的反核示威者联结在了一起。&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref17&#34;&gt;
-&lt;p&gt;[17] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup17&#34;&gt;出自让·鲍德里亚的《拟像和仿真》。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[17] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup17&#34;&gt;出自让·鲍德里亚的《拟像和仿真》。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref18&#34;&gt;
-&lt;p&gt;[18] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup18&#34;&gt;指1981年英国格林翰皇家空军基地广场发生的一场反核武示威。值得注意的是，参与示威的全都是女性。她们手挽手组成了绵延数公里的人墙，包围了整个基地。她们后来被称作“格林翰女巫”。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[18] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup18&#34;&gt;指1981年英国格林翰皇家空军基地广场发生的一场反核武示威。值得注意的是，参与示威的全都是女性。她们手挽手组成了绵延数公里的人墙，包围了整个基地。她们后来被称作“格林翰女巫”。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref19&#34;&gt;
-&lt;p&gt;[19] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup19&#34;&gt;硬科学（hard science），指严谨、准确、量化及更有解释力的自然科学，与社会科学还有人文科学等软科学（soft science）相对。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[19] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup19&#34;&gt;硬科学（hard science），指严谨、准确、量化及更有解释力的自然科学，与社会科学还有人文科学等软科学（soft science）相对。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref20&#34;&gt;
-&lt;p&gt;[20] &lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup20&#34;&gt;化用《爱丽丝梦游仙境》的主人公爱丽丝的名字。——译者注&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[20] &lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#sup20&#34;&gt;化用《爱丽丝梦游仙境》的主人公爱丽丝的名字。——译者注&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;因此，我的赛博格神话涉及被跨越的界限、强有力的融合以及危险的可能性。进步人士或许会把它们作为必要的政治工作的一部分来探索。我的前提之一是：大多数美国社会主义者和女性主义者都目睹了身与心、动物与机器、理念论和唯物论这些二元论在社会实践、象征表达以及与“高科技”和科学文化相关的人工事物中不断加深。从《单向度的人》（马尔库塞，1964）到《自然之死》（Merchant，1980），进步人士所发展的分析资源都坚持必要的技术统治，并且让我们回想起一个想象的有机体，以整合我们的抵抗行动。我的另一前提是：为了抵抗世界范围内变本加厉的统治，将人们联合起来的需求从未如此迫切。但是如果将视角稍稍偏移，我们或许能更好地在由技术协调的社会中争得意义以及其他形式的权力和愉悦。&lt;/p&gt;
-&lt;p&gt;从一个角度看，赛博格世界意味着一套控制格栅最终被强加在我们的星球之上，意味着以防卫名义发动的星球大战的天启所体现出的终极抽象，意味着在一场男权主义的战争狂欢中女性身体最终被侵占（Sofia，1984）。从另一个角度看，赛博格世界也意味着活生生的政治现实和身体现实。在这里，人们不会对同动物和机械有亲属关系而感到恐惧，不会对不完整的身份认同和矛盾立场的永久持续而感到恐惧。政治反抗要同时采取这两个视角，因为每一个视角都揭示了在另一个视角下无法想象的统治和可能性。单一视线比双重视线或者多头怪兽能造成糟糕得多的幻觉。赛博格联合体是骇人的，也是非法的。在我们目前的政治处境里，我们几乎无法期待比这更强大的神话来进行反抗和重新联合。我喜欢把利弗莫尔行动小组（the Livermore Action Group，LAG）看做一种赛博格社团，它旨在实际地改变那些极端体现了技术天启，并且猛烈喷吐出助力技术天启的工具的实验室，旨在建立一种真正能够争取女巫、工程师、长者、变态、基督教徒、母亲和列宁主义者足够长时间的联合，以迫使国家政权缴械的政治形式。“不可能的分裂”是我所在的小城里的亲和团体的名字。（亲和不是靠血缘关联，而是靠选择关联，靠化学核小组的吸引力和渴望关联。）&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link6&#34;&gt;&lt;sup id=&#34;mk6&#34;&gt;【6】&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从一个角度看，赛博格世界意味着一套控制格栅最终被强加在我们的星球之上，意味着以防卫名义发动的星球大战的天启所体现出的终极抽象，意味着在一场男权主义的战争狂欢中女性身体最终被侵占（Sofia，1984）。从另一个角度看，赛博格世界也意味着活生生的政治现实和身体现实。在这里，人们不会对同动物和机械有亲属关系而感到恐惧，不会对不完整的身份认同和矛盾立场的永久持续而感到恐惧。政治反抗要同时采取这两个视角，因为每一个视角都揭示了在另一个视角下无法想象的统治和可能性。单一视线比双重视线或者多头怪兽能造成糟糕得多的幻觉。赛博格联合体是骇人的，也是非法的。在我们目前的政治处境里，我们几乎无法期待比这更强大的神话来进行反抗和重新联合。我喜欢把利弗莫尔行动小组（the Livermore Action Group，LAG）看做一种赛博格社团，它旨在实际地改变那些极端体现了技术天启，并且猛烈喷吐出助力技术天启的工具的实验室，旨在建立一种真正能够争取女巫、工程师、长者、变态、基督教徒、母亲和列宁主义者足够长时间的联合，以迫使国家政权缴械的政治形式。“不可能的分裂”是我所在的小城里的亲和团体的名字。（亲和不是靠血缘关联，而是靠选择关联，靠化学核小组的吸引力和渴望关联。）&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#link6&#34;&gt;&lt;sup id=&#34;mk6&#34;&gt;【6】&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;link6&#34;&gt;
-&lt;p&gt;【6】&lt;a href=&#34;https://traumtanzer.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk6&#34;&gt;对此的民族志解读和政治评估，详见Epstein（1993）和Sturgeon（1986）。虽然并没有明显的讽刺，虽然采用了太空船地球/完整地球标识（“热爱你的母亲吧”的标语衬托着从太空拍摄的地球），1987年五月在内华达州的核武器试验场进行的“母亲和他者日”行动却考虑到了观看地球的不同视角之间的悲剧矛盾。抗议者们向西部肖松尼部落的官员申请居留在土地上的官方许可，而西部肖松尼部落的领土正是在1950年代核武器试验场开建的时候被美国政府入侵的。以越界罪名被捕的抗议者们争辩说，警察和试验场的人员没有从相关官员处得到授权，他们才是不法入侵者。女性行动中的一个亲和组织自称为“他者的替代者”（Surrogate Others）。这个组织联合着那些和核弹一样在这片土地上钻洞的生物，从搭建起来的大型非异性恋沙漠蠕虫身体中演绎了一场赛博格式的现身。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【6】&lt;a href=&#34;https://voidmori.xyz/%E8%B5%9B%E5%8D%9A%E6%A0%BC%E5%AE%A3%E8%A8%80/#mk6&#34;&gt;对此的民族志解读和政治评估，详见Epstein（1993）和Sturgeon（1986）。虽然并没有明显的讽刺，虽然采用了太空船地球/完整地球标识（“热爱你的母亲吧”的标语衬托着从太空拍摄的地球），1987年五月在内华达州的核武器试验场进行的“母亲和他者日”行动却考虑到了观看地球的不同视角之间的悲剧矛盾。抗议者们向西部肖松尼部落的官员申请居留在土地上的官方许可，而西部肖松尼部落的领土正是在1950年代核武器试验场开建的时候被美国政府入侵的。以越界罪名被捕的抗议者们争辩说，警察和试验场的人员没有从相关官员处得到授权，他们才是不法入侵者。女性行动中的一个亲和组织自称为“他者的替代者”（Surrogate Others）。这个组织联合着那些和核弹一样在这片土地上钻洞的生物，从搭建起来的大型非异性恋沙漠蠕虫身体中演绎了一场赛博格式的现身。&lt;/a&gt;&lt;/p&gt;
 </description>
                 
                 
@@ -1951,7 +2037,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -1966,7 +2052,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
                                 
                             
                         
@@ -1976,8 +2062,8 @@
         
             <item>
                 <title>拓扑初见</title>
-                <link>https://traumtanzer.xyz/%E6%8B%93%E6%89%91%E5%88%9D%E8%A7%81/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E6%8B%93%E6%89%91%E5%88%9D%E8%A7%81/</guid>
+                <link>https://voidmori.xyz/%E6%8B%93%E6%89%91%E5%88%9D%E8%A7%81/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E6%8B%93%E6%89%91%E5%88%9D%E8%A7%81/</guid>
                 <pubDate>Sun, 14 Mar 2021 14:30:16 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2063,7 +2149,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%95%B0%E5%AD%A6/">数学</category>
+                                <category domain="https://voidmori.xyz/%E6%95%B0%E5%AD%A6/">数学</category>
                             
                         
                     
@@ -2078,13 +2164,13 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E6%95%B0%E5%AD%A6/">数学</category>
+                                    <category domain="https://voidmori.xyz/tags/%E6%95%B0%E5%AD%A6/">数学</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E6%8B%93%E6%89%91/">拓扑</category>
+                                    <category domain="https://voidmori.xyz/tags/%E6%8B%93%E6%89%91/">拓扑</category>
                                 
                             
                         
@@ -2094,8 +2180,8 @@
         
             <item>
                 <title>线性时间与逻辑时间</title>
-                <link>https://traumtanzer.xyz/%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E4%B8%8E%E9%80%BB%E8%BE%91%E6%97%B6%E9%97%B4/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E4%B8%8E%E9%80%BB%E8%BE%91%E6%97%B6%E9%97%B4/</guid>
+                <link>https://voidmori.xyz/%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E4%B8%8E%E9%80%BB%E8%BE%91%E6%97%B6%E9%97%B4/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E4%B8%8E%E9%80%BB%E8%BE%91%E6%97%B6%E9%97%B4/</guid>
                 <pubDate>Mon, 01 Mar 2021 20:37:39 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2123,7 +2209,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -2138,7 +2224,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -2148,26 +2234,26 @@
         
             <item>
                 <title>传统十论</title>
-                <link>https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/</guid>
+                <link>https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/</guid>
                 <pubDate>Sun, 28 Feb 2021 13:33:27 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;h3 id=&#34;传统乡村的认识范式paradigm&#34;&gt;传统乡村的认识范式(paradigm)&lt;/h3&gt;
 &lt;p&gt;温铁军：国权不下县&lt;/p&gt;
-&lt;p&gt;国权不下县，县下唯宗族，宗族皆自治，自治靠伦理，伦理造乡绅。早在20世纪初，马克斯·韦伯就提出了关于传统中国“有限官僚制”的看法：“事实上，正式的皇权统辖只施行都市地区和次都市地区。......出了城墙之外，统辖权威的有效性便大大地减弱，乃至消失。” &lt;a href=&#34;https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34;&gt;[1]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;有中国学者把这个观点归结为：“在中国，三代之始虽无地方自治之名，然确实有地方自治之实，自隋朝中叶以降，直到清代，国家实行郡县制，政权只延于州县，乡绅阶层成为乡村社会的主导性力量。” &lt;a href=&#34;https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#ref2&#34;&gt;&lt;sup id=sup2&gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;而“乡绅自治”又被理解为宗族—伦理自治，如著名家族史专家W·古德所说：“在帝国统治下，行政机构的管理没有渗透到乡村一级，而宗族特有的势力却维护着乡村的安定和秩序。” &lt;a href=&#34;https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#ref3&#34;&gt;&lt;sup id=sup3 &gt;[3]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;国权不下县，县下唯宗族，宗族皆自治，自治靠伦理，伦理造乡绅。早在20世纪初，马克斯·韦伯就提出了关于传统中国“有限官僚制”的看法：“事实上，正式的皇权统辖只施行都市地区和次都市地区。......出了城墙之外，统辖权威的有效性便大大地减弱，乃至消失。” &lt;a href=&#34;https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#ref1&#34;&gt;&lt;sup id=&#34;sup1&#34;&gt;[1]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有中国学者把这个观点归结为：“在中国，三代之始虽无地方自治之名，然确实有地方自治之实，自隋朝中叶以降，直到清代，国家实行郡县制，政权只延于州县，乡绅阶层成为乡村社会的主导性力量。” &lt;a href=&#34;https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#ref2&#34;&gt;&lt;sup id=sup2&gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;而“乡绅自治”又被理解为宗族—伦理自治，如著名家族史专家W·古德所说：“在帝国统治下，行政机构的管理没有渗透到乡村一级，而宗族特有的势力却维护着乡村的安定和秩序。” &lt;a href=&#34;https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#ref3&#34;&gt;&lt;sup id=sup3 &gt;[3]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;ref&#34;&gt;
 &lt;div id=&#34;ref1&#34; &gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#sup1&#34;&gt;[德]马克斯·韦伯：《儒教与道教》，江苏人民出版社1993年版，第110页&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#sup1&#34;&gt;[德]马克斯·韦伯：《儒教与道教》，江苏人民出版社1993年版，第110页&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref2&#34;&gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#sup2&#34;&gt;吴理财:《民主化与中国乡村社会转型》,《天津社会科学》1999年第4期&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#sup2&#34;&gt;吴理财:《民主化与中国乡村社会转型》,《天津社会科学》1999年第4期&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref3&#34;&gt;
-&lt;p&gt;[3] &lt;a href=&#34;https://traumtanzer.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#sup3&#34;&gt;W·古德:《家庭》,社会科学文物出版社1986年版,第166页&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://voidmori.xyz/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/#sup3&#34;&gt;W·古德:《家庭》,社会科学文物出版社1986年版,第166页&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -2181,7 +2267,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                <category domain="https://voidmori.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
                             
                         
                     
@@ -2189,7 +2275,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AF%BB%E4%B9%A6/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/">传统十论</category>
+                                <category domain="https://voidmori.xyz/%E8%AF%BB%E4%B9%A6/%E4%BC%A0%E7%BB%9F%E5%8D%81%E8%AE%BA/">传统十论</category>
                             
                         
                     
@@ -2204,7 +2290,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
                                 
                             
                         
@@ -2214,8 +2300,8 @@
         
             <item>
                 <title>福柯碎笔</title>
-                <link>https://traumtanzer.xyz/%E7%A6%8F%E6%9F%AF%E7%A2%8E%E7%AC%94/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%A6%8F%E6%9F%AF%E7%A2%8E%E7%AC%94/</guid>
+                <link>https://voidmori.xyz/%E7%A6%8F%E6%9F%AF%E7%A2%8E%E7%AC%94/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%A6%8F%E6%9F%AF%E7%A2%8E%E7%AC%94/</guid>
                 <pubDate>Mon, 08 Feb 2021 19:40:44 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2324,7 +2410,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                <category domain="https://voidmori.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
                             
                         
                     
@@ -2339,7 +2425,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%A6%8F%E6%9F%AF/">福柯</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%A6%8F%E6%9F%AF/">福柯</category>
                                 
                             
                         
@@ -2349,8 +2435,8 @@
         
             <item>
                 <title>精神分析碎笔</title>
-                <link>https://traumtanzer.xyz/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%A2%8E%E7%AC%94/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%A2%8E%E7%AC%94/</guid>
+                <link>https://voidmori.xyz/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%A2%8E%E7%AC%94/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%A2%8E%E7%AC%94/</guid>
                 <pubDate>Fri, 05 Feb 2021 21:02:19 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2381,7 +2467,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                <category domain="https://voidmori.xyz/%E8%AF%BB%E4%B9%A6/">读书</category>
                             
                         
                     
@@ -2389,7 +2475,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E8%AF%BB%E4%B9%A6/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
+                                <category domain="https://voidmori.xyz/%E8%AF%BB%E4%B9%A6/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
                             
                         
                     
@@ -2404,7 +2490,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/">精神分析</category>
                                 
                             
                         
@@ -2414,8 +2500,8 @@
         
             <item>
                 <title>字幕 Caption and Subtitle</title>
-                <link>https://traumtanzer.xyz/%E5%AD%97%E5%B9%95-caption-and-subtitle/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E5%AD%97%E5%B9%95-caption-and-subtitle/</guid>
+                <link>https://voidmori.xyz/%E5%AD%97%E5%B9%95-caption-and-subtitle/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E5%AD%97%E5%B9%95-caption-and-subtitle/</guid>
                 <pubDate>Wed, 03 Feb 2021 16:18:27 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2434,7 +2520,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -2449,7 +2535,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%94%B5%E5%BD%B1/">电影</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%94%B5%E5%BD%B1/">电影</category>
                                 
                             
                         
@@ -2459,8 +2545,8 @@
         
             <item>
                 <title>后极权主义下的天朝</title>
-                <link>https://traumtanzer.xyz/%E5%90%8E%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E4%B8%8B%E7%9A%84%E5%A4%A9%E6%9C%9D/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E5%90%8E%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E4%B8%8B%E7%9A%84%E5%A4%A9%E6%9C%9D/</guid>
+                <link>https://voidmori.xyz/%E5%90%8E%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E4%B8%8B%E7%9A%84%E5%A4%A9%E6%9C%9D/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E5%90%8E%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E4%B8%8B%E7%9A%84%E5%A4%A9%E6%9C%9D/</guid>
                 <pubDate>Tue, 19 Jan 2021 15:21:56 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2582,7 +2668,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -2597,7 +2683,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
+                                    <category domain="https://voidmori.xyz/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
                                 
                             
                         
@@ -2607,8 +2693,8 @@
         
             <item>
                 <title>言叶之庭</title>
-                <link>https://traumtanzer.xyz/%E8%A8%80%E5%8F%B6%E4%B9%8B%E5%BA%AD/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E8%A8%80%E5%8F%B6%E4%B9%8B%E5%BA%AD/</guid>
+                <link>https://voidmori.xyz/%E8%A8%80%E5%8F%B6%E4%B9%8B%E5%BA%AD/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E8%A8%80%E5%8F%B6%E4%B9%8B%E5%BA%AD/</guid>
                 <pubDate>Mon, 13 Apr 2020 18:00:41 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2633,7 +2719,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -2648,7 +2734,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%8A%A8%E7%94%BB/">动画</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%8A%A8%E7%94%BB/">动画</category>
                                 
                             
                         
@@ -2658,8 +2744,8 @@
         
             <item>
                 <title>结构</title>
-                <link>https://traumtanzer.xyz/%E7%BB%93%E6%9E%84/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E7%BB%93%E6%9E%84/</guid>
+                <link>https://voidmori.xyz/%E7%BB%93%E6%9E%84/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E7%BB%93%E6%9E%84/</guid>
                 <pubDate>Wed, 04 Dec 2019 01:47:24 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2684,7 +2770,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -2699,7 +2785,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -2709,8 +2795,8 @@
         
             <item>
                 <title>death_stranding</title>
-                <link>https://traumtanzer.xyz/death_stranding/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/death_stranding/</guid>
+                <link>https://voidmori.xyz/death_stranding/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/death_stranding/</guid>
                 <pubDate>Sat, 30 Nov 2019 23:29:37 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2732,7 +2818,7 @@
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -2747,7 +2833,7 @@
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E6%B8%B8%E6%88%8F/">游戏</category>
+                                    <category domain="https://voidmori.xyz/tags/%E6%B8%B8%E6%88%8F/">游戏</category>
                                 
                             
                         
@@ -2757,8 +2843,8 @@
         
             <item>
                 <title>中二病晚期</title>
-                <link>https://traumtanzer.xyz/%E4%B8%AD%E4%BA%8C%E7%97%85%E6%99%9A%E6%9C%9F/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E4%B8%AD%E4%BA%8C%E7%97%85%E6%99%9A%E6%9C%9F/</guid>
+                <link>https://voidmori.xyz/%E4%B8%AD%E4%BA%8C%E7%97%85%E6%99%9A%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E4%B8%AD%E4%BA%8C%E7%97%85%E6%99%9A%E6%9C%9F/</guid>
                 <pubDate>Wed, 27 Nov 2019 12:46:32 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2839,7 +2925,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -2854,7 +2940,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
+                                    <category domain="https://voidmori.xyz/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/">胡说八道</category>
                                 
                             
                         
@@ -2864,8 +2950,8 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
         
             <item>
                 <title>侧耳倾听</title>
-                <link>https://traumtanzer.xyz/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC/</guid>
+                <link>https://voidmori.xyz/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC/</guid>
                 <pubDate>Mon, 25 Nov 2019 14:07:29 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -2935,7 +3021,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -2950,7 +3036,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%8A%A8%E7%94%BB/">动画</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%8A%A8%E7%94%BB/">动画</category>
                                 
                             
                         
@@ -2960,8 +3046,8 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
         
             <item>
                 <title>丹柯</title>
-                <link>https://traumtanzer.xyz/%E4%B8%B9%E6%9F%AF/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/%E4%B8%B9%E6%9F%AF/</guid>
+                <link>https://voidmori.xyz/%E4%B8%B9%E6%9F%AF/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/%E4%B8%B9%E6%9F%AF/</guid>
                 <pubDate>Sun, 24 Nov 2019 14:07:29 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -3029,7 +3115,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%91%98%E5%BD%95/">摘录</category>
+                                <category domain="https://voidmori.xyz/%E6%91%98%E5%BD%95/">摘录</category>
                             
                         
                     
@@ -3044,7 +3130,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/%E5%B0%8F%E8%AF%B4/">小说</category>
+                                    <category domain="https://voidmori.xyz/tags/%E5%B0%8F%E8%AF%B4/">小说</category>
                                 
                             
                         
@@ -3054,8 +3140,8 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
         
             <item>
                 <title>CPU</title>
-                <link>https://traumtanzer.xyz/cpu/</link>
-                <guid isPermaLink="true">https://traumtanzer.xyz/cpu/</guid>
+                <link>https://voidmori.xyz/cpu/</link>
+                <guid isPermaLink="true">https://voidmori.xyz/cpu/</guid>
                 <pubDate>Sun, 03 Feb 2019 16:18:27 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -3095,7 +3181,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                         
                         
                             
-                                <category domain="https://traumtanzer.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                <category domain="https://voidmori.xyz/%E6%9D%82%E8%B0%88/">杂谈</category>
                             
                         
                     
@@ -3110,7 +3196,7 @@ balabalabalabala。。。。巴拉拉小魔仙小魔仙全身变！沙罗沙罗~
                                 
                                 
                                 
-                                    <category domain="https://traumtanzer.xyz/tags/cpu/">CPU</category>
+                                    <category domain="https://voidmori.xyz/tags/cpu/">CPU</category>
                                 
                             
                         
